@@ -2,6 +2,7 @@
 	--turkey: #FFF0EB;
 	--white: white;
 	--blue: blue;
+	--cool-white: rgb(0, 102, 131, 2);
 }
 
 *, *:before, *:after {
@@ -19,7 +20,7 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background-color: var(--cool-white);
 }
 
 main {
