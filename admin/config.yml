@@ -32,6 +32,7 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
+      fields:
       - { label: "Hero Text", name: "body", widget: "markdown" }
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Some More Text', name: 'body', widget: 'markdown' }
