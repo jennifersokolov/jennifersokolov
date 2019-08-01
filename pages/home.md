@@ -16,8 +16,8 @@ Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, 
 
 For more info on installation and usage, view the \[project repo]({{ pkg.repository.url }}) on Github.
 
-This is a test of updating a template page!
+This is a test of updating a template page! More test of template page!
 
 <!-- Or click the button below to deploy your own copy of this project to Netlify.
 
-\[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms) -->
+\\[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms) -->
