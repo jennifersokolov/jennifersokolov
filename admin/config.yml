@@ -33,4 +33,5 @@ collections:
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Hero Text", name: "body", widget: "markdown" }
+      - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Some More Text', name: 'body', widget: 'markdown' }
