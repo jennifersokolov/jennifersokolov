@@ -5,7 +5,9 @@ permalink: /about/index.html
 navtitle: About
 tags:
   - nav
-image: /static/img/logo.svg
-more text: This is some more text
+image: /static/img/logo.png
+more text: >-
+  This is some more text that will not show up in the preview or in the live
+  site.
 ---
 This is the About Page Hero Text.
