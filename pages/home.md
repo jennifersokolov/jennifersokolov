@@ -5,8 +5,8 @@ permalink: /
 navtitle: Home
 tags:
   - nav
-image: /static/img/logo.png
-more text: Hello new section of text on the home page!
+image: /static/img/logo.svg
+more text: Hello new section of text on the home page! with even more text.
 ---
 # Welcome
 
