@@ -8,6 +8,6 @@ tags:
 image: /static/img/logo.png
 more text: >-
   This is some more text that will not show up in the preview or in the live
-  site.
+  site. And even more text
 ---
-This is the About Page Hero Text.
+This is the About Page Hero Text. Some more text
