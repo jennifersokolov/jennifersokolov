@@ -12,9 +12,7 @@ const Page = createClass({
         <h1>${entry.getIn(["data", "title"], null)}</h1>
 
         ${this.props.widgetFor("body")}
-        ${this.props.widgetFor("description")}
-        ${this.props.widgetFor("image")}
-        ${this.props.widgetFor("description1")}
+        
         
       </main>
     `;
