@@ -4,7 +4,6 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
 tags:
-  - nav
 image: /static/img/logo.svg
 more text: Hello new section of text on the home page! with even more text.
 ---
