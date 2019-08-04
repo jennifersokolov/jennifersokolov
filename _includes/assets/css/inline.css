@@ -1,8 +1,21 @@
 :root {
-	--turkey: #FFF0EB;
-	--white: white;
+	--white: #ffffff;
 	--blue: blue;
+	--cool-blue-1: #033e48;
+	--cool-blue-2: #006683;
+	--cool-blue-3: #02849f;
+	--hot-orange-1: #db850d;
+	--hot-orange-2: #d95029;
+	--pure-white: #ffffff;
 	--cool-white: #fafcfd;
+	--cool-fill: #f0f6f8;
+	--hot-white: #fefcfa;
+	--hot-fill: #ffffff;
+	--light-gray: #d3d3d3;
+	--html-gray: #9a9a9a;
+	--dark-gray: #333333;
+	--serif: poynter-oldstyle-display-nar, serif;
+	--sans-serif: acumin-pro-condensed, sans-serif;
 }
 
 *, *:before, *:after {
@@ -13,7 +26,9 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: var(--sans-serif), sans-serif;
+	font-weight: 400;
+	font-style: normal;
 }
 
 body {
@@ -21,10 +36,25 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--cool-white);
+	color: var(--dark-gray);
 }
 
 main {
 	max-width: 37.5em;
+	margin: auto;
+}
+
+.hero-text {
+	font-family: var(--serif);
+	font-style: normal;
+	font-variant: common-ligatures, oldstyle-nums;
+	font-feature-settings: "liga", "onum";
+}
+h2, .h2 {
+	font-size: 2em;
+	font-size: 2em;
+	margin: .67em 0;
+	font-weight: 600;
 }
 
 p,
@@ -106,6 +136,82 @@ header nav li a[data-current="current item"] {
 	font-weight: 700;
 	text-decoration: underline;
 }
+
+
+
+
+
+/*------------------------------------*\
+    $GUIDE
+\*------------------------------------*/
+.color-chips {
+	display:flex;
+	justify-content:flex-start;
+	margin: 0 -10px;
+}
+.color-chip {
+	margin: 0 10px;
+}
+.color-chip dl {
+	margin: 0 0;
+}
+.color-chip dl dd {
+	margin-left: 0px;
+}
+.color-chip dl dt, 
+.color-title {
+	font-weight: 600;
+}
+
+.color-chip-circle {
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+}
+.color-chip-a {background-color: var(--cool-blue-1);}
+.color-title-a {color: var(--cool-blue-1);}
+.color-chip-b {background-color: var(--cool-blue-2);}
+.color-title-b {color: var(--cool-blue-2);}
+.color-chip-c {background-color: var(--cool-blue-3);}
+.color-title-c { color: var(--cool-blue-3);}
+.color-chip-d {background-color: var(--hot-orange-1);}
+.color-title-d { color: var(--hot-orange-1);}
+.color-chip-e {background-color: var(--hot-orange-2);}
+.color-title-e { color: var(--hot-orange-2);}
+.color-chip-f {
+	background-color: var(--pure-white);
+	border: 1px solid var(--html-gray);
+}
+.color-title-f { color: inherit;}
+.color-chip-g {
+	background-color: var(--cool-white);
+	border: 1px solid var(--html-gray);
+}
+.color-title-g { color: inherit;}
+.color-chip-gg {
+	background-color: var(--cool-fill);
+	border: 1px solid var(--html-gray);
+}
+.color-title-gg { color: inherit;}
+.color-chip-h {
+	background-color: var(--hot-white);
+	border: 1px solid var(--html-gray);
+}
+.color-title-h { color: inherit;}
+.color-chip-i {background-color: var(--light-gray);}
+.color-title-i { color: inherit;}
+.color-chip-j {background-color: var(--html-gray);}
+.color-title-j { color: var(--html-gray);}
+.color-chip-k {background-color: var(--dark-gray);}
+.color-title-k { color: var(--dark-gray);}
+
+
+
+
+
+/*------------------------------------*\
+    $POSTS
+\*------------------------------------*/
 
 /* Posts List */
 article {

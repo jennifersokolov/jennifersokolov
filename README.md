@@ -106,6 +106,11 @@ Or build automatically when a template changes:
 npx eleventy --watch
 ```
 
+Run the site on a local host:
+```
+npx eleventy --serve
+```
+
 Or in debug mode:
 ```
 DEBUG=* npx eleventy

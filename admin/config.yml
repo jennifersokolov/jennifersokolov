@@ -34,6 +34,6 @@ collections:
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Body", name: "body", widget: "markdown" }
       # add three fields to test
-      # - { label: "description", name: "description", widget: "markdown" }
+      - { label: "Hero Text", name: "hero-text", widget: "markdown" }
       # - { label: 'image', name: 'image', widget: 'image' }
       # - { label: 'description2', name: 'description2', widget: 'markdown' }
