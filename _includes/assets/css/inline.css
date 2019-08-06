@@ -149,6 +149,9 @@ header nav li a[data-current="current item"] {
 	text-decoration: underline;
 }
 
+img.logo {
+	width: 160px;
+}
 
 
 
