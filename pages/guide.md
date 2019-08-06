@@ -53,11 +53,11 @@ hero-text: Test
         <span class="color-title color-title-c">Cool Blue 3</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#02849f</dd>
             <dt>RGB</dt>
-            <dd></dd>
+            <dd>2, 132, 159</dd>
             <dt>CMYK</dt>
-            <dd></dd>
+            <dd>99, 17, 0, 38</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -66,11 +66,11 @@ hero-text: Test
         <span class="color-title color-title-d">Hot Orange 1</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#DB850D</dd>
             <dt>RGB</dt>
-            <dd></dd>
+            <dd>219, 133, 13</dd>
             <dt>CMYK</dt>
-            <dd></dd>
+            <dd>0, 39, 94, 14</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -79,11 +79,11 @@ hero-text: Test
         <span class="color-title color-title-e">Hot Orange 2</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#D95029</dd>
             <dt>RGB</dt>
-            <dd></dd>
+            <dd>217, 80, 41</dd>
             <dt>CMYK</dt>
-            <dd></dd>
+            <dd>0, 63, 81, 15</dd>
         </dl>
     </div>
 </div>
@@ -97,11 +97,11 @@ hero-text: Test
         <span class="color-title color-title-f">Pure White</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#ffffff</dd>
             <dt>RGB</dt>
-            <dd></dd>
+            <dd>255, 255, 255</dd>
             <dt>CMYK</dt>
-            <dd></dd>
+            <dd>0, 0 ,0 ,0</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -110,11 +110,11 @@ hero-text: Test
         <span class="color-title color-title-g">Cool White</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#fafcfd</dd>
             <dt>RGB</dt>
-            <dd></dd>
+            <dd>250, 252, 253</dd>
             <dt>CMYK</dt>
-            <dd></dd>
+            <dd>1, 0, 0, 0</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -123,11 +123,11 @@ hero-text: Test
         <span class="color-title color-title-h">Hot White</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#fefcfa</dd>
             <dt>RGB</dt>
-            <dd></dd>
+            <dd>254, 252, 250</dd>
             <dt>CMYK</dt>
-            <dd></dd>
+            <dd>0, 1, 1, 0</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -136,11 +136,9 @@ hero-text: Test
         <span class="color-title color-title-i">Light Gray</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#D3D3D3</dd>
             <dt>RGB</dt>
-            <dd></dd>
-            <dt>CMYK</dt>
-            <dd></dd>
+            <dd>211, 211, 211</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -149,11 +147,9 @@ hero-text: Test
         <span class="color-title color-title-j">HTML Gray</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#9a9a9a</dd>
             <dt>RGB</dt>
-            <dd></dd>
-            <dt>CMYK</dt>
-            <dd></dd>
+            <dd>154, 154, 154</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -162,11 +158,9 @@ hero-text: Test
         <span class="color-title color-title-k">Dark Gray</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#</dd>
+            <dd>#333333</dd>
             <dt>RGB</dt>
-            <dd></dd>
-            <dt>CMYK</dt>
-            <dd></dd>
+            <dd>51, 51, 51</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -177,9 +171,9 @@ hero-text: Test
             <dt>HEX</dt>
             <dd>#f0f6f8</dd>
             <dt>RGB</dt>
-            <dd></dd>
+            <dd>240, 246, 248</dd>
             <dt>CMYK</dt>
-            <dd></dd>
+            <dd>4, 1, 1, 0</dd>
         </dl>
     </div>
 </div>
