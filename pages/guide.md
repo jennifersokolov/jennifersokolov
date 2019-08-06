@@ -2,13 +2,16 @@
 title: Guide
 date: 2019-08-01T00:00:00.000Z
 permalink: /guide/index.html
-tags:
+navtitle: Guide
+hero-text: Test
 ---
 # Guidelines
 
 **Brand** - Unique, Trustworthy, Communicative, Professional
 
-<img src="" alt="Jennifer Sokolov Logo">
+![Jennifer Sokolov Logo](/static/img/logo.svg)
+
+
 <h2>Energy Therapy | Yoga</h2>
 
 **Voice and Tone** - We speak with typography and plain language
@@ -203,9 +206,9 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Choose these sessions if you are looking for:
 
-- Relief from intractable conditions that haven’t responded to other modalities.
-- Shifts in stuck life situations
-- Discovery of what might be a root cause for discomfort, illness, or pain
+* Relief from intractable conditions that haven’t responded to other modalities.
+* Shifts in stuck life situations
+* Discovery of what might be a root cause for discomfort, illness, or pain
 
 <div class="book-session-link">
     <a href="javascript:void(0)">Book a Session</a>
