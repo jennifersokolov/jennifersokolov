@@ -178,6 +178,7 @@ img.logo {
 }
 .color-chip dl dd {
 	margin-left: 0px;
+	text-transform: uppercase;
 }
 .color-chip dl dt, 
 .color-title {

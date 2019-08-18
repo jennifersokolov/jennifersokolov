@@ -34,20 +34,21 @@ collections:
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Body", name: "body", widget: "markdown" }
   # Our tall home page
-  - name: "Home"
-    label: "Home"
-    folder: "pages"
-    create: false
-    slug: "{{slug}}"
-    fileds: 
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
-      - { label: "Navigation Title", name: "navtitle", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
-      - { label: "Intro", name:"intro", widget: "markdown" }
-      - { label: "Image", name: "image", widget: "image" }
-      - { label: "Process", name:"process", widget: "markdown" }
-      - { label: "Offerings", name:"offerings", widget: "markdown" }
-      - { label: "Fees", name:"fees", widget: "markdown" }
+  # - name: "Home"
+  #   label: "Home"
+  #   folder: "pages"
+  #   create: false
+  #   slug: "{{slug}}"
+  #   fileds: 
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Publish Date", name: "date", widget: "datetime" }
+  #     - { label: "Permalink", name: "permalink", widget: "string" }
+  #     - { label: "Navigation Title", name: "navtitle", widget: "string" }
+  #     - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
+  #     - { label: "Body", name:"body", widget: "markdown" }
+      # - { label: "Intro", name:"intro", widget: "markdown" }
+      # - { label: "Image", name: "image", widget: "image" }
+      # - { label: "Process", name:"process", widget: "markdown" }
+      # - { label: "Offerings", name:"offerings", widget: "markdown" }
+      # - { label: "Fees", name:"fees", widget: "markdown" }
 
