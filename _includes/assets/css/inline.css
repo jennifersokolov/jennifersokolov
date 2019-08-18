@@ -84,6 +84,11 @@ main,
 footer {
 	padding: 1em;
 }
+footer {
+	display: flex;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
 
 header {
 	display:flex;
@@ -301,6 +306,9 @@ a[rel="tag"]:last-child {
 form {
   display: grid;
 	padding: 2em 0;
+}
+form.newsletter-sign-up {
+	grid-template-columns: 1fr 40px;
 }
 
 form label {
