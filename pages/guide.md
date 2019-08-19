@@ -207,3 +207,5 @@ Choose these sessions if you are looking for:
 <div class="book-session-link">
     <a href="javascript:void(0)">Book a Session</a>
 </div>
+
+**Imagry** - Abstract, gestural, watercolor, hand-drawn
