@@ -15,7 +15,7 @@ const Page = createClass({
           ${this.props.widgetFor("image")}
           ${this.props.widgetFor("process")}
           ${this.props.widgetFor("offerings")}
-          ${this.props.widgetFor("fees")}
+          ${this.props.widgetFor("fees")} 
         
       </main>
     `;
