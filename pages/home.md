@@ -3,20 +3,10 @@ title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
-tags:
-image: /static/img/logo.svg
-more text: Hello new section of text on the home page! with even more text.
+intro: '# this is some hero text'
+image: /static/img/img_1096.jpg
+process: This the process section
+offerings: this is the offerings section
+fees: this is the fees section
 ---
 # Welcome
-
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
-
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on Github.
-
-This is a test of updating a template page! More test of template page!
-
-<!-- Or click the button below to deploy your own copy of this project to Netlify.
-
-\\[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms) -->
