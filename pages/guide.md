@@ -30,6 +30,8 @@ hero-text: Test
             <dd>#033E48</dd>
             <dt>RGB</dt>
             <dd>3, 62, 72</dd>
+            <dt>HSL</dt>
+            <dd>189, 92%, 15%</dd>
             <dt>CMYK</dt>
             <dd>96, 14, 0, 72</dd>
         </dl>
