@@ -45,6 +45,8 @@ hero-text: Test
             <dd>#006683</dd>
             <dt>RGB</dt>
             <dd>0, 102, 131</dd>
+            <dt>HSL</dt>
+            <dd>193, 100%, 26%</dd>
             <dt>CMYK</dt>
             <dd>100, 22, 0, 49</dd>
         </dl>
@@ -58,6 +60,8 @@ hero-text: Test
             <dd>#02849f</dd>
             <dt>RGB</dt>
             <dd>2, 132, 159</dd>
+            <dt>HSL</dt>
+            <dd>190, 98%, 32%</dd>
             <dt>CMYK</dt>
             <dd>99, 17, 0, 38</dd>
         </dl>
@@ -71,6 +75,8 @@ hero-text: Test
             <dd>#DB850D</dd>
             <dt>RGB</dt>
             <dd>219, 133, 13</dd>
+            <dt>HSL</dt>
+            <dd>35, 89%, 45%</dd>
             <dt>CMYK</dt>
             <dd>0, 39, 94, 14</dd>
         </dl>
@@ -84,6 +90,8 @@ hero-text: Test
             <dd>#D95029</dd>
             <dt>RGB</dt>
             <dd>217, 80, 41</dd>
+            <dt>HSL</dt>
+            <dd>13, 70%, 51%</dd>
             <dt>CMYK</dt>
             <dd>0, 63, 81, 15</dd>
         </dl>
@@ -102,6 +110,8 @@ hero-text: Test
             <dd>#ffffff</dd>
             <dt>RGB</dt>
             <dd>255, 255, 255</dd>
+            <dt>HSL</dt>
+            <dd>0, 0%, 100%</dd>
             <dt>CMYK</dt>
             <dd>0, 0 ,0 ,0</dd>
         </dl>
@@ -115,6 +125,8 @@ hero-text: Test
             <dd>#fafcfd</dd>
             <dt>RGB</dt>
             <dd>250, 252, 253</dd>
+            <dt>HSL</dt>
+            <dd>200, 43%, 99%</dd>
             <dt>CMYK</dt>
             <dd>1, 0, 0, 0</dd>
         </dl>
@@ -128,6 +140,8 @@ hero-text: Test
             <dd>#fefcfa</dd>
             <dt>RGB</dt>
             <dd>254, 252, 250</dd>
+            <dt>HSL</dt>
+            <dd>30, 67%, 99%</dd>
             <dt>CMYK</dt>
             <dd>0, 1, 1, 0</dd>
         </dl>
@@ -141,6 +155,8 @@ hero-text: Test
             <dd>#D3D3D3</dd>
             <dt>RGB</dt>
             <dd>211, 211, 211</dd>
+            <dt>HSL</dt>
+            <dd>0, 0%, 83%</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -152,6 +168,8 @@ hero-text: Test
             <dd>#9a9a9a</dd>
             <dt>RGB</dt>
             <dd>154, 154, 154</dd>
+            <dt>HSL</dt>
+            <dd>0, 0%, 60%</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -163,6 +181,8 @@ hero-text: Test
             <dd>#333333</dd>
             <dt>RGB</dt>
             <dd>51, 51, 51</dd>
+            <dt>HSL</dt>
+            <dd>0, 0%, 20%</dd>
         </dl>
     </div>
     <div class="color-chip">
@@ -174,6 +194,8 @@ hero-text: Test
             <dd>#f0f6f8</dd>
             <dt>RGB</dt>
             <dd>240, 246, 248</dd>
+            <dt>HSL</dt>
+            <dd>195, 36%, 96%</dd>
             <dt>CMYK</dt>
             <dd>4, 1, 1, 0</dd>
         </dl>
