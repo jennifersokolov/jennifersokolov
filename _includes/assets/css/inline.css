@@ -58,6 +58,9 @@ h1, .h1 {
 h2 {
 	font-family: acumin-pro, sans-serif;
 	font-weight: 500;
+	color: var(--cool-blue-1);
+	opacity: 0.6;
+	margin: 1.8em 0 .3em;
 	font-style: normal;
 	Text-transform: lowercase;
 	font-variant: small-caps;
@@ -309,7 +312,7 @@ form {
 	padding: 2em 0;
 }
 form.newsletter-sign-up {
-	grid-template-columns: 1fr 40px;
+	grid-template-columns: 1fr 1fr;
 }
 
 form label {
@@ -323,7 +326,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: var(--sans-serif), sans-serif;
 }
 
 input,
@@ -331,11 +334,18 @@ textarea {
 	border: 1px solid black;
 }
 
-button {
-	border: 1px solid var(--blue);
-	background-color: var(--blue);
-	color: var(--white);
+button, button:active {
+	border: 2px solid var(--hot-orange-1);
+	background-color:transparent;
+	color: var(--hot-orange-1);
 	cursor: pointer;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+button:hover {
+	border: 2px solid var(--hot-orange-1);
+	background-color: var(--hot-orange-1);
+	color: var(--white);
 }
 
 @media screen and (min-width:768px) {
