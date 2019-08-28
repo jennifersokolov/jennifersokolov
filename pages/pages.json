@@ -1,3 +1,8 @@
 {
-  "layout": "layouts/page.njk"
+  "layout": "layouts/page.njk",
+  "widget": "intro",
+  "widget": "image",
+  "widget": "process",
+  "widget": "offerings",
+  "widget": "fees"
 }

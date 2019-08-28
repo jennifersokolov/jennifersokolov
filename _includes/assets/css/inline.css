@@ -71,6 +71,7 @@ p,
 pre,
 code {
 	line-height: 1.5;
+	margin: 0 0 .8em;
 }
 
 a[href],
@@ -86,11 +87,16 @@ header,
 main,
 footer {
 	padding: 1em;
+	max-width: 37.5em;
+	margin: 0 auto;
 }
 footer {
 	display: flex;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+}
+footer section h2 {
+	margin: 0 0 .3em;
 }
 
 header {
@@ -158,7 +164,7 @@ header nav li a[data-current="current item"] {
 }
 
 img.logo {
-	width: 160px;
+	width: 260px;
 }
 
 
@@ -309,10 +315,10 @@ a[rel="tag"]:last-child {
 /* Contact Form */
 form {
   display: grid;
-	padding: 2em 0;
+	padding: 0;
 }
 form.newsletter-sign-up {
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 1fr 7rem;
 }
 
 form label {
@@ -332,6 +338,7 @@ button {
 input,
 textarea {
 	border: 1px solid black;
+	background-color: transparent;
 }
 
 button, button:active {
