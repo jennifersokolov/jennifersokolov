@@ -1,4 +1,5 @@
 ---
+layout: page.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
@@ -136,4 +137,3 @@ fees: |-
 
   10 Sessions to be used in 6 months
 ---
-
