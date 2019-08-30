@@ -137,7 +137,9 @@ h1, .h1 {
 		max-width: 44rem; 
 		} 
 	}
-
+h1 {
+	margin: 2rem auto 1rem;
+}
 h2, .h2 {
 	--text-opsz: 18;
 	--text-wght: 600;
@@ -149,7 +151,7 @@ h2, .h2 {
 	font-synthesis: none;
 	font-weight: var(--h1-wght-min);
 	line-height: var(--h1-lh-min);
-	margin: 1.8em auto .3em;
+	margin: 0.8em auto .3em;
 	max-width: 42rem;
 	text-transform: lowercase;
 	font-variant: small-caps;
