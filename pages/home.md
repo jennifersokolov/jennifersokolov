@@ -137,7 +137,9 @@ fees: |-
   10 Sessions to be used in 6 months
 ---
 
-<h1 class="hero-text">{{ intro }}</h1>
+<div class="hero-text">
+  <h1>{{ intro }}</h1>
+</div>
 
 <img src="{{ image }}">
 
