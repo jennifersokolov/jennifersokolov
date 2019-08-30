@@ -4,7 +4,7 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
 intro: >-
-  # We share 97% percent of our essence with stars. Let’s transform the clouds
+  We share 97% percent of our essence with stars. Let’s transform the clouds
   blocking your sparkle to let the real you shine through…
 image: /static/img/img_1096.jpg
 process: >-
