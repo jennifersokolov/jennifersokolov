@@ -231,10 +231,12 @@ ul {
 
 .hero-text {
 	background-color: var(--cool-fill);
+	padding:1.2rem 0;
 }
 .hero-image {
 	height: 20rem;
 	overflow: hidden;
+	margin-bottom: 2rem;
 }
 header,
 main,
