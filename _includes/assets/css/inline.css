@@ -92,6 +92,10 @@ img {
 .hero-text {
 	background-color: var(--cool-fill);
 }
+.hero-image {
+	height: 20rem;
+	overflow: hidden;
+}
 h1, .h1 {
 	--text-opsz: 18;
 	/* --text-wght: 575; */
