@@ -147,3 +147,5 @@ fees: |-
 {{ offerings }}
 
 {{ fees }}
+
+{{ booking }}
