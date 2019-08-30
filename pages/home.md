@@ -8,9 +8,9 @@ intro: >-
   blocking your sparkle to let the real you shine through…
 image: /static/img/img_1096.jpg
 process: >-
-  <span class="h1 hero-text">The Process</span> No one comes to a healer without
-  a reason. Our lives are complicated and messy and filled with impossible
-  transitions. Though it might not feel this way now, you are not those things. 
+  <span class="h1">The Process</span> No one comes to a healer without a reason.
+  Our lives are complicated and messy and filled with impossible transitions.
+  Though it might not feel this way now, you are not those things. 
 
 
   You are light and loving and filled with the capacity for joy. 
@@ -27,20 +27,17 @@ process: >-
   ## The way energy therapy works
 
 
-  - We will take time to let the story of what brings you here unfold at the
+  * We will take time to let the story of what brings you here unfold at the
   pace that’s right for you. 
 
-
-  - We will uncover the physical, mental, emotional, and spiritual aspects of
+  * We will uncover the physical, mental, emotional, and spiritual aspects of
   your narrative that might be contributing to your experience of feeling
   unwell. 
 
-
-  - We will be present to the mystery of being alive--the timeless time shared
+  * We will be present to the mystery of being alive--the timeless time shared
   between two people that allows the unknown to become known. 
 
-
-  - We will create pathways to cultivate continued growth, acceptance,
+  * We will create pathways to cultivate continued growth, acceptance,
   connection and love. 
 
 
@@ -137,14 +134,3 @@ fees: |-
   10 Sessions to be used in 6 months
 ---
 
-<div class="hero-text">
-  <h1>{{ intro }}</h1>
-</div>
-
-<img src="{{ image }}">
-
-{{ process }}
-
-{{ offerings }}
-
-{{ fees }}
