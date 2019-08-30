@@ -48,9 +48,9 @@
 	--p-wdth-min: 90;
 	--p-wdth-mid: 95;
 	--p-wdth-max: 100;
-	--h1-size-min: 1.5;
-	--h1-size-mid: 2.5;
-	--h1-size-max: 3;
+	--h1-size-min: 1.2;
+	--h1-size-mid: 1.8;
+	--h1-size-max: 2.6;
 	--h1-lh-min: 1.05;
 	--h1-lh-mid: 1.075;
 	--h1-lh-max: 1.1;
@@ -99,8 +99,7 @@ img {
 }
 
 h1, .h1 {
-	--text-opsz: 18;
-	/* --text-wght: 575; */
+	--text-opsz: 22;
 	--text-wght: 600;
 	font-family: var(--serif);
 	color: var(--cool-blue-1);
@@ -168,7 +167,7 @@ h2, .h2 {
 	}
 	@media screen and (min-width: 45em) {
 	  h2 {
-		--text-opsz: 22;
+		--text-opsz: 18;
 		font-stretch: calc( var(--h2-wdth-mid) * 1%);
 		font-weight: var(--h2-wght-mid);
 		max-width: 40rem; 
@@ -182,7 +181,7 @@ h2, .h2 {
 	}
 	@media screen and (min-width: 65em) {
 	  h2 {
-		--text-opsz: 30;
+		--text-opsz: 24;
 		font-size: calc( var(--h2-size-max) * 1em);
 		font-stretch: calc( var(--h2-wdth-max) * 1%);
 		line-height: var(--h2-lh-max);
@@ -245,8 +244,13 @@ ul {
 	overflow: hidden;
 	margin-bottom: 2rem;
 }
+header, footer {
+	max-width: 42rem;
+	margin: 0 auto;
+}
 header {
-	display: grid;
+	display:flex;
+	justify-content: space-between;
 }
 footer {
 	display: flex;
@@ -255,11 +259,6 @@ footer {
 }
 footer section h2 {
 	margin: 0 0 .3em;
-}
-
-header {
-	display:flex;
-	justify-content: space-between;
 }
 
 main {
