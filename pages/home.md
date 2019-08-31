@@ -151,3 +151,18 @@ booking: >-
   You will be in the field and I will be awaiting our time.
 ---
 
+<div class="hero-text">
+  <h1>{{ intro }}</h1>
+</div>
+
+<div class="hero-image">
+<img src="{{ image }}">
+</div>
+
+{{ process }}
+
+{{ offerings }}
+
+{{ fees }}
+
+{{ booking }}

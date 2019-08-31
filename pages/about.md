@@ -17,3 +17,4 @@ bio: >-
   practices for modern living. She also likes writing and cats.
 ---
 
+{{ bio }}
