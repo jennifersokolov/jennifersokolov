@@ -8,9 +8,12 @@ intro: >-
   blocking your sparkle to let the real you shine through…
 image: /static/img/img_1096.jpg
 process: >-
-  <span class="h1">The Process</span> No one comes to a healer without a reason.
-  Our lives are complicated and messy and filled with impossible transitions.
-  Though it might not feel this way now, you are not those things. 
+  # The Process
+
+
+  No one comes to a healer without a reason. Our lives are complicated and messy
+  and filled with impossible transitions. Though it might not feel this way now,
+  you are not those things. 
 
 
   You are light and loving and filled with the capacity for joy. 
@@ -132,20 +135,18 @@ fees: |-
   # $1,500
 
   10 Sessions to be used in 6 months
+booking: >-
+  # Booking a Session
+
+
+  You may schedule online through Acuity, or you may reach out to me directly
+  via email at jennifer.sokolov(at)gmail.com.
+
+
+  Once we set a date and time to meet, I will send you some basic forms to fill
+  out. 
+
+
+  You will be in the field and I will be awaiting our time.
 ---
 
-<div class="hero-text">
-  <h1>{{ intro }}</h1>
-</div>
-
-<div class="hero-image">
-  <img src="{{ image }}">
-</div>
-
-{{ process }}
-
-{{ offerings }}
-
-{{ fees }}
-
-{{ booking }}
