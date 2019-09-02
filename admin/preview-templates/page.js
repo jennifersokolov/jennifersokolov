@@ -9,14 +9,8 @@ const Page = createClass({
 
     return html`
       <main>
-        <p>Hello!</p>
-        <div class="fill-box fill-box-gg">
-          <h1 class="hero-text">${this.props.widgetFor("intro")}</h1>
-        </div>
-          ${this.props.widgetFor("image")}
-          ${this.props.widgetFor("process")}
-          ${this.props.widgetFor("offerings")}
-          ${this.props.widgetFor("fees")} 
+          
+        ${this.props.widgetFor("body")}
         
       </main>
     `;
