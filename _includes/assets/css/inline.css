@@ -25,7 +25,7 @@
 	--color-bg: #f9f9fd;
 	--color-text: #414141;
 	/* initial values  */
-	--text-wght: 100;
+	--text-wght: 400;
 	--text-wdth: 100;
 	--text-opsz: 16;
 	/* set px value sizes */
@@ -61,8 +61,8 @@
 	--h1-wght-mid: 600;
 	--h1-wght-max: 700;
 	--h2-size-min: 1.2;
-	--h2-size-mid: 1.8;
-	--h2-size-max: 2.6;
+	--h2-size-mid: 1.5;
+	--h2-size-max: 1.8;
 	--h2-lh-min: 1.05;
 	--h2-lh-mid: 1.075;
 	--h2-lh-max: 1.1;
@@ -195,7 +195,8 @@ p {
 	font-size: calc( var(--p-size-min) * 1em);
 	font-stretch: calc( var(--p-wdth-min) * 1%);
 	font-synthesis: none;
-	font-weight: var(--text-wght);
+	/* font-weight: var(--text-wght); */
+	font-weight: 400;
 	/* font-variation-settings: "opsz" var(--text-opsz); */
 	-webkit-hyphens: auto;
 	hyphens: auto;
@@ -253,10 +254,17 @@ header {
 	justify-content: space-between;
 }
 footer {
-	display: flex;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+	padding-bottom: 3rem;
 }
+@media screen and (max-width: 480px) {
+	footer {
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr 1fr;
+	}
+}
+
 footer section h2 {
 	margin: 0 0 .3em;
 }
@@ -320,6 +328,26 @@ header nav li a[data-current="current item"] {
 img.logo {
 	width: 260px;
 }
+
+.fee-cards-wrapper {
+	margin: 0 auto;
+	max-width: 42rem;
+}
+.fee-cards {
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.fee-card {
+	background-color: var(--cool-fill);
+	padding: 1rem;
+	margin: 0 9px .6rem;
+}
+@media screen and (max-width: 480px) {
+	.fee-cards {
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr 1fr 1fr;
+	}
+  }
 
 
 
@@ -509,8 +537,8 @@ button:hover {
 	color: var(--white);
 }
 
-@media screen and (min-width:768px) {
+/* @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
 	}
-}
+} */

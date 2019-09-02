@@ -61,10 +61,16 @@ A personal practice changes everything. It is the foundation of stability. It is
 - Practices from the whole Yogic Tradition emphasizing meditation, breathing, philosophy, mantra/chanting, and asana influenced by the Desikachar and Iyengar traditions.
 
 # Fees
+<div class="fee-cards-wrapper">
+<div class="fee-cards">
+<div class="fee-card">
 
 ## SINGLE SESSION
 
 # $200
+
+</div>
+<div class="fee-card">
 
 ## QUICK PACKAGE
 
@@ -72,11 +78,19 @@ A personal practice changes everything. It is the foundation of stability. It is
 
 3 Sessions at $175
 
+</div>
+
+<div class="fee-card">
+
 ## VALUE PACKAGE
 
 # $1,500
 
 10 Sessions to be used in 6 months
+
+</div>
+</div>
+</div>
 
 # Booking a Session
 
