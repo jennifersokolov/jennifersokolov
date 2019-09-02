@@ -396,7 +396,7 @@ img.logo {
 	display:flex;
 	flex-flow: row wrap;
 	justify-content:flex-start;
-	margin: 0 -10px;
+	margin: 0 auto;
 }
 .color-chip {
 	margin: 0 10px;
