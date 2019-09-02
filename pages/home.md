@@ -8,14 +8,20 @@ navtitle: Home
   <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle to let the real you shine through…</h1>
 </div>
 
-<div class="hero-image">
+<div class="hero-image" style="background-image: url(/static/img/img_1096.jpg); background-style:cover;">
 
-![](/static/img/img_1096.jpg)
-
-
+<div class="toc">
+<p><strong>Read about it:</strong></p>
+  <span class="toc-pill"><a href="#process">Process</a></span>
+  <span class="toc-pill"><a href="#offerings">Offerings</a></span>
+  <span class="toc-pill"><a href="#fees">Fees</a></span>
+  <span class="toc-pill"><a href="#booking">Booking</a></span>
+</div>
 </div>
 
-# The Process
+<div class="image-section">
+<div>
+<h1 id="process">The Process</h1>
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
 You are light and loving and filled with the capacity for joy. 
@@ -38,7 +44,18 @@ In yoga sessions, we will spend considerable time looking at the rhythms of your
   
 In combined sessions (2 hours), we take our time and do both.
 
-# Offerings
+</div>
+<div>
+    <img src="https://via.placeholder.com/600x600.jpg">
+</div>
+</div>
+
+<div class="image-section">
+  <div>
+    <img src="https://via.placeholder.com/600x600.jpg">
+  </div>
+<div>
+<h1 id="offerings">Offerings</h1>
 
 ## ENERGY THERAPY
 
@@ -60,40 +77,35 @@ A personal practice changes everything. It is the foundation of stability. It is
 - Yoga Mentorship. Relief from chronic pain, anxiety and depression, stuckness, somatic issues, or complex social or family dynamics. 
 - Practices from the whole Yogic Tradition emphasizing meditation, breathing, philosophy, mantra/chanting, and asana influenced by the Desikachar and Iyengar traditions.
 
-# Fees
+</div>
+</div>
+
+<a class="button" href="/book">Book a Session</a>
+
+<h1 id="fees">Fees</h1>
 <div class="fee-cards-wrapper">
-<div class="fee-cards">
-<div class="fee-card">
-
-## SINGLE SESSION
-
-# $200
-
-</div>
-<div class="fee-card">
-
-## QUICK PACKAGE
-
-# $525
-
-3 Sessions at $175
-
-</div>
-
-<div class="fee-card">
-
-## VALUE PACKAGE
-
-# $1,500
-
-10 Sessions to be used in 6 months
-
-</div>
-</div>
+  <div class="fee-cards">
+    <div class="fee-card">
+      <h2>SINGLE SESSION</h2>
+      <h1>$200</h1>
+    </div>
+    <div class="fee-card">
+      <h2>QUICK PACKAGE</h2>
+      <h1>$525</h1>
+      <p>3 Sessions at $175</p>
+    </div>
+    <div class="fee-card">
+      <h2>VALUE PACKAGE</h2>
+      <h1>$1,500</h1>
+      <p>10 Sessions to be used in 6 months</p>
+    </div>
+  </div>
 </div>
 
-# Booking a Session
+<h1 id="booking">Booking a Session</h1>
 
-You may schedule online through Acuity, or you may reach out to me directly via email at jennifer.sokolov(at)gmail.com.
+You may schedule online through Acuity, or you may reach out to me directly via email at jennifer.sokolov(at)gmail(dot)com.
 Once we set a date and time to meet, I will send you some basic forms to fill out. 
 You will be in the field and I will be awaiting our time.
+
+<a class="button" href="/book">Book a Session</a>

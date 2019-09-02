@@ -32,7 +32,7 @@
 	--p-size-s-px: 16;
 	--p-size-m-px: 18;
 	--p-size-l-px: 20;
-	--h1-size-s-px: 20;
+	--h1-size-s-px: 24;
 	--h1-size-m-px: 36;
 	--h1-size-l-px: 52;
 	--h2-size-s-px: 18;
@@ -48,8 +48,8 @@
 	--p-wdth-min: 90;
 	--p-wdth-mid: 95;
 	--p-wdth-max: 100;
-	--h1-size-min: 1.2;
-	--h1-size-mid: 1.8;
+	--h1-size-min: 1.8;
+	--h1-size-mid: 2.0;
 	--h1-size-max: 2.6;
 	--h1-lh-min: 1.05;
 	--h1-lh-mid: 1.075;
@@ -109,7 +109,7 @@ h1, .h1 {
 	font-weight: var(--h1-wght-min);
 	line-height: var(--h1-lh-min);
 	margin: 1rem auto;
-	max-width: 96vw;
+	max-width: 48rem;
 	font-variant: common-ligatures, oldstyle-nums;
 	font-feature-settings: "liga", "onum";
 	transition: all 0.5s ease-in-out; }
@@ -151,7 +151,7 @@ h2, .h2 {
 	font-weight: var(--h1-wght-min);
 	line-height: var(--h1-lh-min);
 	margin: 0.8em auto .3em;
-	max-width: 42rem;
+	max-width: 48rem;
 	text-transform: lowercase;
 	font-variant: small-caps;
 	font-feature-settings: "smcp";
@@ -202,7 +202,7 @@ p {
 	hyphens: auto;
 	line-height: var(--p-lh-min);
 	margin: 0 auto;
-	max-width: 42rem;
+	max-width: 48rem;
 	transition: font-size 0.5s ease-in-out, color 0.5s ease-in-out, letter-spacing 0.5s ease-in-out, word-spacing 0.5s ease-in-out, line-height 0.5s ease-in-out; }
 	@media screen and (min-width: 25em) {
 	  p {
@@ -244,9 +244,32 @@ ul {
 	height: 20rem;
 	overflow: hidden;
 	margin-bottom: 2rem;
+	display:flex;
+	align-items: flex-end;
 }
+.toc {
+	display:flex;
+	max-width: 48rem;
+	margin: 1rem auto;
+	justify-content: flex-start;
+}
+.toc-pill {
+	background-color: var(--hot-orange-2);
+	border-radius: 1rem;
+	padding: .2rem .8rem;
+}
+.toc-pill a {
+	color: var(--hot-white);
+}
+
+.image-section {
+	display: flex;
+	margin: 3rem auto;
+	max-width: 68rem;
+}
+
 header, footer {
-	max-width: 42rem;
+	max-width: 48rem;
 	margin: 0 auto;
 }
 header {
@@ -256,12 +279,14 @@ header {
 footer {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	padding-bottom: 3rem;
+	grid-column-gap: 2rem;
+	padding: 3rem 0;
+	max-width: 48rem;
 }
 @media screen and (max-width: 480px) {
 	footer {
 		grid-template-columns: 1fr;
-		grid-template-rows: 1fr 1fr;
+		grid-template-rows: auto auto;
 	}
 }
 
@@ -331,7 +356,7 @@ img.logo {
 
 .fee-cards-wrapper {
 	margin: 0 auto;
-	max-width: 42rem;
+	max-width: 48rem;
 }
 .fee-cards {
 	display:grid;
@@ -509,7 +534,7 @@ form label {
 
 input,
 textarea,
-button {
+button, a.button {
   width: 100%;
   padding: 1em;
   margin-bottom: 1em;
@@ -523,7 +548,7 @@ textarea {
 	background-color: transparent;
 }
 
-button, button:active {
+button, button:active, a.button:active {
 	border: 2px solid var(--hot-orange-1);
 	background-color:transparent;
 	color: var(--hot-orange-1);
@@ -531,7 +556,7 @@ button, button:active {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
-button:hover {
+button:hover, a.button:hover {
 	border: 2px solid var(--hot-orange-1);
 	background-color: var(--hot-orange-1);
 	color: var(--white);
