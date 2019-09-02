@@ -32,11 +32,6 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
-      - { label: "Intro", name: "intro", widget: "text" }
-      - { label: "Image", name: "image", widget: "image" }
-      - { label: "Process", name: "process", widget: "markdown" }
-      - { label: "Offerings", name: "offerings", widget: "markdown" }
-      - { label: "Fees", name: "fees", widget: "markdown" }
-      - { label: "Booking", name: "booking", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown" }
       
 
