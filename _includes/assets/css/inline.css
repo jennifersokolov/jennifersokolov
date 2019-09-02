@@ -139,6 +139,14 @@ h1, .h1 {
 h1 {
 	margin: 2rem auto 1rem;
 }
+h1 a, h1 a:visited {
+	color: var(--cool-blue-1);
+	border-bottom: 6px solid;
+	text-decoration: none;
+}
+h1 a:hover {
+	color: var(--cool-blue-2);
+}
 h2, .h2 {
 	--text-opsz: 18;
 	--text-wght: 600;
@@ -227,6 +235,10 @@ p {
 	}
 	p + p {
 	  margin-top: 1em; }
+	
+	p.secondary-text {
+		color: var(--html-gray);
+	}
 
 ul {
 		list-style: square;
