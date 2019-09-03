@@ -1,7 +1,7 @@
 ---
 title: Subscribe to Newsletter
 date: 2019-09-03T18:57:43.396Z
-permalink: /subscribe
+permalink: /subscribe/index.html
 navtitle: subscribe
 tags: nav
 ---
