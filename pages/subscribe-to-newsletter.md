@@ -3,7 +3,7 @@ title: Subscribe to Newsletter
 date: 2019-09-03T18:57:43.396Z
 permalink: /subscribe/index.html
 navtitle: subscribe
-tags: 
+tags: nav
 ---
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -40,6 +40,7 @@ tags:
 <li><input type="checkbox" value="32" name="group[83][32]" id="mce-group[83]-83-5"><label for="mce-group[83]-83-5">Animal Healing</label></li>
 </ul>
 </div>
+<p><a href="https://us16.campaign-archive.com/home/?u=cf0efb93043ec59fb36fd1287&id=0a01040063" title="View previous campaigns">View previous campaigns.</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
