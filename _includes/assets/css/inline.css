@@ -386,7 +386,10 @@ img.logo {
 	}
   }
 
-
+#mc_embed_signup {
+	max-width: 48rem;
+	margin: 0px auto;
+}
 
 
 /*------------------------------------*\
