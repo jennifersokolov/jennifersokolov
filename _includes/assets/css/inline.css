@@ -366,6 +366,11 @@ img.logo {
 	width: 260px;
 }
 
+section {
+	max-width: 48rem;
+	margin: 0 auto;
+}
+
 .fee-cards-wrapper {
 	margin: 0 auto;
 	max-width: 48rem;
