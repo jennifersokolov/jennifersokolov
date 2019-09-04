@@ -560,11 +560,13 @@ button, a.button {
   margin-bottom: 1em;
 	font-size: 1rem;
 	font-family: var(--sans-serif), sans-serif;
+	background-color: var(--hot-orange-1);
+	color: var(--white);
 }
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid var(--html-gray);
 	background-color: transparent;
 }
 
