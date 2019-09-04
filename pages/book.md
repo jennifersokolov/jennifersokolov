@@ -6,7 +6,8 @@ navtitle: Book a Session
 tags: nav
 ---
 
-If you are new please use the [register page](/register) before booking.
+<p>If you are new please
+<script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script><healcode-widget data-version="0.2" data-link-class="loginRegister" data-site-id="27431" data-mb-site-id="689276" data-type="account-link" data-inner-html="Login | Register"  /> before booking.
 
 <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
 
