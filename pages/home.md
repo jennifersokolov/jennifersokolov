@@ -30,7 +30,10 @@ Soon, you will feel the power of your energy bursting through the inner dams tha
 
 ## The way energy therapy works
 
-We will take time to let the story of what brings you here unfold at the pace that’s right for you.  _We will uncover the physical, mental, emotional, and spiritual aspects of your narrative that might be contributing to your experience of feeling unwell._  We will be present to the mystery of being alive--the timeless time shared between two people that allows the unknown to become known. * We will create pathways to cultivate continued growth, acceptance, connection and love. 
+- We will take time to let the story of what brings you here unfold at the pace that’s right for you.  
+- We will uncover the physical, mental, emotional, and spiritual aspects of your narrative that might be contributing to your experience of feeling unwell.  
+- We will be present to the mystery of being alive&mdash;the timeless time shared between two people that allows the unknown to become known. 
+- We will create pathways to cultivate continued growth, acceptance, connection and love. 
   
 ## The Bigger How
 

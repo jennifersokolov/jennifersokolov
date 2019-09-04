@@ -266,6 +266,7 @@ ul {
 	background-color: var(--hot-orange-2);
 	border-radius: 1rem;
 	padding: .2rem .8rem;
+	margin: 0 .2rem;
 }
 .toc-pill a {
 	color: var(--hot-white);
@@ -275,6 +276,18 @@ ul {
 	display: flex;
 	margin: 3rem auto;
 	max-width: 68rem;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-column-gap: 2rem;
+}
+.image-section div img {
+	max-width: 100%;
+}
+@media screen and (max-width: 480px) {
+	.image-section {
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr 1fr;
+	}
 }
 
 header, footer {
