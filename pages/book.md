@@ -5,6 +5,9 @@ permalink: /book/index.html
 navtitle: Book a Session
 tags: nav
 ---
+
+If you are new please use the [register page](/register) before booking.
+
 <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
 
 <healcode-widget data-type="enrollments" data-widget-partner="object" data-widget-id="3129201602e" data-widget-version="0" ></healcode-widget>
