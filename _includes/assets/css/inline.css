@@ -272,6 +272,11 @@ ul {
 	color: var(--hot-white);
 }
 
+.information-box {
+	background-color: var(--light-gray);
+	padding: 3rem 2rem;
+}
+
 .image-section {
 	display: flex;
 	margin: 3rem auto;
