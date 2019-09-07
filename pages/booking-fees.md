@@ -2,8 +2,6 @@
 title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
-navtitle: Booking and Fees
-tags: nav
 ---
 <h1 id="booking">Booking a Session</h1>
 

@@ -51,9 +51,11 @@
 	--h1-size-min: 1.8;
 	--h1-size-mid: 2.0;
 	--h1-size-max: 2.6;
+	--h1-size-super: 3.8;
 	--h1-lh-min: 1.05;
 	--h1-lh-mid: 1.075;
 	--h1-lh-max: 1.1;
+	--h1-lh-super: 1.4;
 	--h1-wdth-min: 85;
 	--h1-wdth-mid: 92.5;
 	--h1-wdth-max: 100;
@@ -247,7 +249,24 @@ ul {
 .hero-text {
 	background-color: var(--cool-fill);
 	padding:1.2rem 0;
+	margin-bottom: 3rem;
 }
+.hero-text h1 {
+	--text-opsz: 22;
+}
+@media screen and (min-width: 25em) {
+	.hero-text h1 {
+	  line-height: calc(( var(--h1-lh-super) * 1em ) + ( var(--h1-lh-super) - var(--h1-lh-super) ) * ((100vw - ( var(--bp-small) * 1em )) / ( var(--bp-xlarge) - var(--bp-small) )));
+	  font-size: calc(( var(--h1-size-max) * 1em ) + ( var(--h1-size-max) - var(--h1-size-max) ) * ((100vw - ( var(--bp-small) * 1em )) / ( var(--bp-xlarge) - var(--bp-small) )));
+	}
+}
+@media screen and (min-width: 65em) {
+	.hero-text h1 {
+		font-size: calc( var(--h1-size-super) * 1em);
+		line-height: var(--h1-lh-super);
+	}
+}
+
 .hero-image {
 	height: 20rem;
 	overflow: hidden;
