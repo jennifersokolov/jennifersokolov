@@ -9,14 +9,10 @@ navtitle: Home
 </div>
 
 <div class="image-section image-section-01">
-<div>
+<div class="a">
     <img src="https://via.placeholder.com/600x600.jpg">
-
-![](/static/img/01fpo.png)
-
-
 </div>
-<div>
+<div class="b">
 <h1 id="process">The Process</h1>
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
@@ -27,10 +23,10 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 </div>
 
 <div class="image-section image-section-02">
-  <div>
+  <div class="a">
     <img src="https://via.placeholder.com/600x600.jpg">
   </div>
-<div>
+<div class="b">
 <h1 id="offerings">Offerings</h1>
 
 Energy Therapy | Yoga
@@ -40,10 +36,10 @@ Energy Therapy | Yoga
 </div>
 </div>
 <div class="image-section image-section-03">
-<div>
+<div class="a">
 <img src="https://via.placeholder.com/600x600.jpg">
 </div>
-<div>
+<div class="b">
 <h1 id="fees">Booking & Fees</h1>
 
 You may schedule online or reach out personally
