@@ -3,11 +3,11 @@ title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html
 ---
-<div class="image-section">
-  <div>
+<div class="image section image-section-02">
+  <div class="a">
     <img src="https://via.placeholder.com/600x600.jpg">
   </div>
-<div>
+<div class="b">
 <h1 id="offerings">Offerings</h1>
 
 ## ENERGY THERAPY
