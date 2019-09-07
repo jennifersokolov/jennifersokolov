@@ -11,6 +11,10 @@ navtitle: Home
 <div class="image-section image-section-01">
 <div>
     <img src="https://via.placeholder.com/600x600.jpg">
+
+![](/static/img/01fpo.png)
+
+
 </div>
 <div>
 <h1 id="process">The Process</h1>
