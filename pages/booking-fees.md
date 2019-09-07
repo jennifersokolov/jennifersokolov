@@ -7,7 +7,7 @@ tags: nav
 ---
 <h1 id="booking">Booking a Session</h1>
 
-You may schedule online through Acuity, or you may reach out to me directly via email at jennifer.sokolov(at)gmail(dot)com.
+You may schedule online through MINDBODY®, or you may reach out to me directly via email at jennifer.sokolov(at)gmail(dot)com.
 Once we set a date and time to meet, I will send you some basic forms to fill out. 
 You will be in the field and I will be awaiting our time.
 
