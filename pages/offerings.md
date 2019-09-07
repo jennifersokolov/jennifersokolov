@@ -35,4 +35,6 @@ A personal practice changes everything. It is the foundation of stability. It is
 </div>
 </div>
 
+<div class="book-cta">
 <a class="button" href="/book">Book a Session</a>
+</div>
