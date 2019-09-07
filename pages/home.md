@@ -8,7 +8,7 @@ navtitle: Home
   <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle to let the real you shine through…</h1>
 </div>
 
-<div class="image-section">
+<div class="image-section image-section-01">
 <div>
     <img src="https://via.placeholder.com/600x600.jpg">
 </div>
@@ -22,7 +22,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 </div>
 </div>
 
-<div class="image-section">
+<div class="image-section image-section-02">
   <div>
     <img src="https://via.placeholder.com/600x600.jpg">
   </div>
@@ -35,12 +35,16 @@ Energy Therapy | Yoga
 
 </div>
 </div>
+<div class="image-section image-section-03">
+  <div>
+    <img src="https://via.placeholder.com/600x600.jpg">
+  </div>
+  <div>
+    <h1 id="fees">Booking & Fees</h1>
 
-<h1 id="fees">Booking & Fees</h1>
-
-<h1 id="booking">Booking a Session</h1>
-
-You may schedule online or reach out personally
+    You may schedule online or reach out personally
+  <div>
+</div>
 
 <div class="booking-cta">
 <a class="button" href="/book">Book a Session</a>

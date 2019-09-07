@@ -2,8 +2,6 @@
 title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html
-navtitle: offerings
-tags: nav
 ---
 <div class="image-section">
   <div>

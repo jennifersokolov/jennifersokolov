@@ -2,8 +2,6 @@
 title: The Process
 date: 2019-09-07T18:01:22.512Z
 permalink: /process/index.html
-navtitle: process
-tags: nav
 ---
 <div class="image-section">
 <div>
