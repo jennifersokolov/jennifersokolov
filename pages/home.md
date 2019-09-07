@@ -18,7 +18,7 @@ navtitle: Home
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
 
-<a href="/the-process">Read More About The Process</a>
+<a href="/process">Read More About The Process</a>
 
   </div>
 </div>
@@ -45,7 +45,7 @@ Energy Therapy | Yoga
 
 You may schedule online or reach out personally
 
-<a href="/booking-fees">Read More About Booking and Fees</a>
+<a href="/booking-and-fees">Read More About Booking and Fees</a>
   <div>
 </div>
 

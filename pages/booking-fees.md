@@ -3,12 +3,21 @@ title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
 ---
-<h1 id="booking">Booking a Session</h1>
+
+<div class="image-section image-section-03">
+<div class="a">
+    <img src="https://via.placeholder.com/600x600.jpg">
+</div>
+<div class="b">
+<h1 id="booking">Booking</h1>
 
 You may schedule online through MINDBODY®, or you may reach out to me directly via email at jennifer.sokolov(at)gmail(dot)com.
 Once we set a date and time to meet, I will send you some basic forms to fill out. 
 You will be in the field and I will be awaiting our time.
 
+</div>
+</div>
+<div style="clear:both;">
 <h1 id="fees">Fees</h1>
 <div class="fee-cards-wrapper">
   <div class="fee-cards">
@@ -28,7 +37,8 @@ You will be in the field and I will be awaiting our time.
     </div>
   </div>
 </div>
+</div>
 
-<div class="book-cta">
+<div class="book-cta" style="clear:both;">
 <a class="button" href="/book">Book a Session</a>
 </div>
