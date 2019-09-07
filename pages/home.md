@@ -8,47 +8,47 @@ navtitle: Home
   <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle to let the real you shine through…</h1>
 </div>
 
+
 <div class="image-section image-section-01">
-<div class="a">
+  <div class="a">
     <img src="https://via.placeholder.com/600x600.jpg">
-</div>
-<div class="b">
-<h1 id="process">The Process</h1>
+  </div>
+  <div class="b">
+  <h1 id="process">The Process</h1>
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
 
-<a href="/the-process/">Read More About The Process</a>
+<a href="/the-process">Read More About The Process</a>
 
-</div>
+  </div>
 </div>
 
 <div class="image-section image-section-02">
   <div class="a">
     <img src="https://via.placeholder.com/600x600.jpg">
   </div>
-<div class="b">
+  <div class="b">
 <h1 id="offerings">Offerings</h1>
 
 Energy Therapy | Yoga
 
-<a href="/the-process/">Read More About Offerings</a>
+<a href="/offerings">Read More About Offerings</a>
 
-</div>
+  </div>
 </div>
 <div class="image-section image-section-03">
-<div class="a">
-<img src="https://via.placeholder.com/600x600.jpg">
-</div>
-<div class="b">
+  <div class="a">
+    <img src="https://via.placeholder.com/600x600.jpg">
+  </div>
+  <div class="b">
 <h1 id="fees">Booking & Fees</h1>
 
 You may schedule online or reach out personally
 
-<a href="/the-process/">Read More About Booking and Fees</a>
-
-<div>
+<a href="/booking-fees">Read More About Booking and Fees</a>
+  <div>
 </div>
 
-<div class="booking-cta">
-<a class="button" href="/book">Book a Session</a>
+<div class="booking-cta" style="clear:both;">
+  <a class="button" href="/book">Book a Session</a>
 </div>

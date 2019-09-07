@@ -434,11 +434,21 @@ header nav li {
 
 header nav li a[href]:not(:hover) {
 	text-decoration: none;
+	color:var(--dark-gray);
+}
+
+header nav li a{
+	text-decoration: none;
+}
+
+header nav li a:hover {
+	border-bottom: 3px solid var(--cool-blue-1);
+	text-decoration:none;
 }
 
 header nav li a[data-current="current item"] {
 	font-weight: 700;
-	text-decoration: underline;
+	border-bottom: 3px solid var(--cool-blue-1);
 }
 
 img.logo {
@@ -652,16 +662,14 @@ textarea {
 }
 
 button, button:active, a.button:active {
-	border: 2px solid var(--hot-orange-1);
 	background-color:transparent;
-	color: var(--hot-orange-1);
+	color: var(--hot-orange-2);
 	cursor: pointer;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
 button:hover, a.button:hover {
-	border: 2px solid var(--hot-orange-1);
-	background-color: var(--hot-orange-1);
+	background-color: var(--hot-orange-2);
 	color: var(--white);
 }
 
