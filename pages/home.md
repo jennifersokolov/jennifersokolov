@@ -36,14 +36,17 @@ Energy Therapy | Yoga
 </div>
 </div>
 <div class="image-section image-section-03">
-  <div>
-    <img src="https://via.placeholder.com/600x600.jpg">
-  </div>
-  <div>
-    <h1 id="fees">Booking & Fees</h1>
+<div>
+<img src="https://via.placeholder.com/600x600.jpg">
+</div>
+<div>
+<h1 id="fees">Booking & Fees</h1>
 
-    You may schedule online or reach out personally
-  <div>
+You may schedule online or reach out personally
+
+<a href="/the-process/">Read More About Booking and Fees</a>
+
+<div>
 </div>
 
 <div class="booking-cta">
