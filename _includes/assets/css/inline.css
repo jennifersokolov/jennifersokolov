@@ -479,6 +479,10 @@ section {
 	max-width: 48rem;
 	margin: 0px auto;
 }
+.mc-field-email {
+	display: grid;
+	grid-template-columns: 1fr 60px;
+}
 
 
 /*------------------------------------*\
