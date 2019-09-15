@@ -120,18 +120,18 @@ h1, .h1 {
 		--text-opsz: 22;
 		font-stretch: calc( var(--h1-wdth-mid) * 1%);
 		font-weight: var(--h1-wght-mid);
-		max-width: 40rem; } }
+		max-width: 48rem; } }
 	@media screen and (min-width: 55em) {
 	  h1 {
 		font-weight: var(--h1-wght-max);
-		max-width: 42rem; } }
+		max-width: 48rem; } }
 	@media screen and (min-width: 65em) {
 	  h1 {
 		--text-opsz: 30;
 		font-size: calc( var(--h1-size-max) * 1em);
 		font-stretch: calc( var(--h1-wdth-max) * 1%);
 		line-height: var(--h1-lh-max);
-		max-width: 44rem; 
+		max-width: 48rem; 
 		} 
 	}
 h1 {
@@ -174,13 +174,13 @@ h2, .h2 {
 		--text-opsz: 18;
 		font-stretch: calc( var(--h2-wdth-mid) * 1%);
 		font-weight: var(--h2-wght-mid);
-		max-width: 40rem; 
+		max-width: 48rem; 
 		} 
 	}
 	@media screen and (min-width: 55em) {
 	  h2 {
 		font-weight: var(--h2-wght-max);
-		max-width: 42rem; 
+		max-width: 48rem; 
 		} 
 	}
 	@media screen and (min-width: 65em) {
@@ -189,7 +189,7 @@ h2, .h2 {
 		font-size: calc( var(--h2-size-max) * 1em);
 		font-stretch: calc( var(--h2-wdth-max) * 1%);
 		line-height: var(--h2-lh-max);
-		max-width: 44rem; 
+		max-width: 48rem; 
 		} 
 	}
 
@@ -202,8 +202,8 @@ p {
 	/* font-weight: var(--text-wght); */
 	font-weight: 400;
 	/* font-variation-settings: "opsz" var(--text-opsz); */
-	-webkit-hyphens: auto;
-	hyphens: auto;
+	/* -webkit-hyphens: auto;
+	hyphens: auto; */
 	line-height: var(--p-lh-min);
 	margin: 0 auto;
 	max-width: 48rem;
@@ -216,17 +216,17 @@ p {
 	  p {
 		--text-opsz: 18;
 		font-stretch: calc( var(--p-wdth-mid) * 1%);
-		max-width: 40rem; } }
+		max-width: 48rem; } }
 	@media screen and (min-width: 55em) {
 	  p {
-		max-width: 42rem; } }
+		max-width: 48rem; } }
 	@media (min-width: 65em) {
 	  p {
 		--text-opsz: 20;
 		font-size: calc( var(--p-size-max) * 1em);
 		font-stretch: calc( var(--p-wdth-max) * 1%);
 		line-height: var(--p-lh-max);
-		max-width: 44rem; 
+		max-width: 48rem; 
 		} 
 	}
 	p + p {
@@ -239,7 +239,7 @@ p {
 ul {
 		list-style: square;
 		list-style-image: url(#);
-		max-width: 42rem;
+		max-width: 48rem;
 		margin: 0 auto;
 		font-size: calc( var(--p-size-min) * 1em);
 	}
@@ -301,6 +301,9 @@ ul {
 	grid-column: 6 / span 6;
 	grid-row: 1;
 }
+.image-section .a img {
+	max-width: 100%;
+}
 
 @media screen and (max-width: 480px) {
 	.image-section-01 .a,  
@@ -311,7 +314,7 @@ ul {
 	.image-section-01 .a img, 
 	.image-section-02 .a img, 
 	.image-section-03 .a img {
-		max-width: 360px;
+		/* max-width: 360px; */
 	}
 	.image-section-01 .b,  
 	.image-section-03 .b {
@@ -352,13 +355,21 @@ ul {
 }
 
 header, footer {
-	max-width: 48rem;
+	/* max-width: 48rem; */
 	margin: 0 auto;
 }
 header {
-	display:flex;
+	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	margin: 2rem auto;
+	max-width: 48rem;
+	padding: 0 1rem;
+}
+@media screen and (max-width: 600px) {
+	header {
+		flex-flow: column nowrap;
+		justify-content: center;
+	}
 }
 footer {
 	display: grid;
@@ -406,14 +417,14 @@ main > article :first-child {
 
 
 
-/* Header Logo (style as h2) */
+/* Header Logo (style as h2)
 header > em {
 	display: block;
 	font-size: 2em;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
-}
+} */
 
 /* Header Nav */
 header nav ul :first-child {
@@ -503,6 +514,10 @@ button, a.button, input.button {
 	color: var(--white);
 	cursor: pointer;
 	border: 1px solid var(--hot-orange-1);
+}
+button:hover, a.button:hover, input.button:hover {
+	background-color: var(--hot-orange-2);
+	border: 1px solid var(--hot-orange-2);
 }
 
 input,
