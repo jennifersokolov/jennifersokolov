@@ -279,7 +279,7 @@ ul {
 	max-width: 68rem;
 	display: grid;
 	grid-template-columns: repeat(1fr, 12);
-	grid-column-gap: 2rem;
+	column-gap: 2rem;
 	align-items: center;
 }
 .image-section-01 .a,  
@@ -337,6 +337,24 @@ ul {
 	}
 }
 
+.about-image-section {
+	display:grid;
+	max-width: 48rem;
+	margin: 0 auto;
+	grid-template-columns: 4fr 8fr;
+	column-gap: 2rem;
+}
+@media screen and (max-width: 480px) {
+	.about-image-section {
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr 1fr;
+		margin: 0 1rem;
+	}
+}
+.about-image-section img {
+	width: 100%;
+}
+
 .booking-cta {
 	clear: both;
 	display: flex;
@@ -369,7 +387,7 @@ header {
 footer {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-column-gap: 2rem;
+	column-gap: 2rem;
 	padding: 3rem 0;
 	max-width: 48rem;
 }

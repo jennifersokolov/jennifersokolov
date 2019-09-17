@@ -37,3 +37,33 @@ In combined sessions (2 hours), we take our time and do both.
 
 </div>
 </div>
+
+<div class="image-section image-section-02">
+  <div class="a">
+    <img src="https://via.placeholder.com/600x600.jpg">
+  </div>
+  <div class="b">
+<h1 id="offerings">Offerings</h1>
+
+Energy Therapy | Yoga
+
+<a href="/offerings">Read More About Offerings</a>
+
+  </div>
+</div>
+<div class="image-section image-section-03">
+  <div class="a">
+    <img src="https://via.placeholder.com/600x600.jpg">
+  </div>
+  <div class="b">
+<h1 id="fees">Booking & Fees</h1>
+
+You may schedule online or reach out personally
+
+<a href="/booking-and-fees">Read More About Booking and Fees</a>
+  <div>
+</div>
+
+<div class="booking-cta" style="clear:both;">
+  <a class="button" href="/book">Book a Session</a>
+</div>

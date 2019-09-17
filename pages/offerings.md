@@ -33,6 +33,33 @@ A personal practice changes everything. It is the foundation of stability. It is
 </div>
 </div>
 
-<div class="book-cta">
-<a class="button" href="/book">Book a Session</a>
+<div class="image-section image-section-02">
+  <div class="a">
+    <img src="https://via.placeholder.com/600x600.jpg">
+  </div>
+  <div class="b">
+  <h1 id="process">The Process</h1>
+
+No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
+
+<a href="/process">Read More About The Process</a>
+
+  </div>
+</div>
+
+<div class="image-section image-section-03">
+  <div class="a">
+    <img src="https://via.placeholder.com/600x600.jpg">
+  </div>
+  <div class="b">
+<h1 id="fees">Booking & Fees</h1>
+
+You may schedule online or reach out personally
+
+<a href="/booking-and-fees">Read More About Booking and Fees</a>
+  <div>
+</div>
+
+<div class="booking-cta" style="clear:both;">
+  <a class="button" href="/book">Book a Session</a>
 </div>
