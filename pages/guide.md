@@ -16,7 +16,7 @@ hero-text: Test
 
 **Voice and Tone** - We speak with typography and plain language
 
-<h1>Kindness and care, soulfulness, thoughtfulness</h1>
+<h1>Kindness and care, soulfulness, thoughtfulness, expertise and femininity</h1>
 
 **Primary Color Palette** - Cool and Hot
 
