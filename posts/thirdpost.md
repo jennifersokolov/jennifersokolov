@@ -1,7 +1,7 @@
 ---
 title: An Injured Ballerina
 date: 2018-03-29T23:00:00.000Z
-summary: This is a summary/abstract that I just changed
+summary: This is a summary/abstract
 tags:
   - letter
 ---
