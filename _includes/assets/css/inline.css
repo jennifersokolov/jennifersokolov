@@ -15,7 +15,7 @@
 	--light-gray: #d3d3d3;
 	--aaa-gray: #aaaaaa;
 	--html-gray: #9a9a9a;
-	--dark-gray: #333333;
+	--dark-gray: #585858;
 	--serif: poynter-oldstyle-display-nar, serif;
 	--sans-serif: acumin-pro-condensed, sans-serif;
 	/* breakpoint variables */
@@ -31,9 +31,9 @@
 	--text-wdth: 100;
 	--text-opsz: 16;
 	/* set px value sizes */
-	--p-size-s-px: 16;
-	--p-size-m-px: 18;
-	--p-size-l-px: 20;
+	--p-size-s-px: 18;
+	--p-size-m-px: 20;
+	--p-size-l-px: 22;
 	--h1-size-s-px: 24;
 	--h1-size-m-px: 36;
 	--h1-size-l-px: 52;
@@ -383,7 +383,6 @@ header {
 	justify-content: space-between;
 	margin: 2rem auto;
 	max-width: 48rem;
-	padding: 0 1rem;
 }
 @media screen and (max-width: 600px) {
 	header {
@@ -406,6 +405,9 @@ footer {
 	max-width: 48rem;
 }
 @media screen and (max-width: 480px) {
+	header {
+		padding: 0 1rem;
+	}
 	footer {
 		grid-template-columns: 1fr;
 		/* grid-template-rows: auto auto; */
@@ -487,11 +489,6 @@ header nav li a[data-current="current item"] {
 
 img.logo {
 	width: 260px;
-}
-
-section {
-	/* max-width: 48rem; */
-	/* margin: 0 auto; */
 }
 
 .fee-cards-wrapper {

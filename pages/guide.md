@@ -178,11 +178,11 @@ hero-text: Test
         <span class="color-title color-title-k">Dark Gray</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#333333</dd>
+            <dd>#585858</dd>
             <dt>RGB</dt>
-            <dd>51, 51, 51</dd>
+            <dd>88, 88, 88</dd>
             <dt>HSL</dt>
-            <dd>0, 0%, 20%</dd>
+            <dd>0, 0%, 34.5%</dd>
         </dl>
     </div>
     <div class="color-chip">
