@@ -402,7 +402,8 @@ footer {
 	grid-template-columns: 1fr 1fr;
 	column-gap: 2rem;
 	padding: 3rem 0;
-	max-width: 48rem;
+	/* max-width: 48rem; */
+	max-width: 60rem;
 }
 @media screen and (max-width: 480px) {
 	header {
@@ -415,7 +416,7 @@ footer {
 }
 
 footer section h2 {
-	margin: .3em 0;
+	margin: 3rem 0 .3em;
 }
 
 main {

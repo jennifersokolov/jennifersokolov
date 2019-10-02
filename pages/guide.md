@@ -57,13 +57,11 @@ hero-text: Test
         <span class="color-title color-title-c">Cool Blue 3</span>
         <dl>
             <dt>HEX</dt>
-            <dd>#02849f</dd>
+            <dd>#417482</dd>
             <dt>RGB</dt>
-            <dd>2, 132, 159</dd>
+            <dd>65, 116, 130</dd>
             <dt>HSL</dt>
-            <dd>190, 98%, 32%</dd>
-            <dt>CMYK</dt>
-            <dd>99, 17, 0, 38</dd>
+            <dd>193, 33.3%, 38.2%</dd>
         </dl>
     </div>
     <div class="color-chip">
