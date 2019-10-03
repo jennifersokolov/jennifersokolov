@@ -32,16 +32,16 @@
     <g id="Map" transform="translate(12 31)">
       <path id="park" d="M371.255,583.677l102.1,62.859,68.485-62.583L643.2,407.089,512.7,330.948Z" fill="#d3d3d3" opacity="0.402"/>
       <circle id="Ellipse_1" data-name="Ellipse 1" cx="12.5" cy="12.5" r="12.5" transform="translate(453 318)" fill="#d95029"/>
-      <text id="Union_Square_Park" data-name="Union Square Park" transform="translate(453 504)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">Union </tspan><tspan x="0" y="30">Square Park</tspan></text>
-      <text id="_17th_St" data-name="17th St" transform="translate(321.77 234.06) rotate(31)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">17th St</tspan></text>
-      <text id="Union_Square_W" data-name="Union Square W" transform="translate(350.917 559.886) rotate(-60)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">Union Square W</tspan></text>
-      <text id="Union_Square_E" data-name="Union Square E" transform="translate(552.917 509.886) rotate(-60)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">Union Square E</tspan></text>
-      <text id="Park_Ave_S" data-name="Park Ave S" transform="translate(641.917 356.729) rotate(-60)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">Park Ave S</tspan></text>
-      <text id="Broadway" transform="translate(504.719 285.939) rotate(-74)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">Broadway</tspan></text>
-      <text id="_18th_St" data-name="18th St" transform="translate(362.77 158.06) rotate(31)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">18th St</tspan></text>
-      <text id="_16th_St" data-name="16th St" transform="translate(271.77 323.06) rotate(31)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">16th St</tspan></text>
-      <text id="_15th_St" data-name="15th St" transform="translate(224.77 411.06) rotate(31)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">15th St</tspan></text>
-      <text id="_14th_St" data-name="14th St" transform="translate(180.77 490.06) rotate(31)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="12">14th St</tspan></text>
+      <text id="Union_Square_Park" data-name="Union Square Park" transform="translate(453 504)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">Union </tspan><tspan x="0" y="30">Square Park</tspan></text>
+      <text id="_17th_St" data-name="17th St" transform="translate(321.77 234.06) rotate(31)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">17th St</tspan></text>
+      <text id="Union_Square_W" data-name="Union Square W" transform="translate(350.917 559.886) rotate(-60)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">Union Square W</tspan></text>
+      <text id="Union_Square_E" data-name="Union Square E" transform="translate(552.917 509.886) rotate(-60)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">Union Square E</tspan></text>
+      <text id="Park_Ave_S" data-name="Park Ave S" transform="translate(641.917 356.729) rotate(-60)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">Park Ave S</tspan></text>
+      <text id="Broadway" transform="translate(504.719 285.939) rotate(-74)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">Broadway</tspan></text>
+      <text id="_18th_St" data-name="18th St" transform="translate(362.77 158.06) rotate(31)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">18th St</tspan></text>
+      <text id="_16th_St" data-name="16th St" transform="translate(271.77 323.06) rotate(31)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">16th St</tspan></text>
+      <text id="_15th_St" data-name="15th St" transform="translate(224.77 411.06) rotate(31)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">15th St</tspan></text>
+      <text id="_14th_St" data-name="14th St" transform="translate(180.77 490.06) rotate(31)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="0" y="12">14th St</tspan></text>
       <g id="Subway_" data-name="Subway ">
         <g id="streets" opacity="0.212">
           <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(-55.185 6.596) rotate(-60)" clip-path="url(#clip-path-2)">
@@ -55,12 +55,12 @@
               <rect id="Rectangle_1-3" data-name="Rectangle 1" width="6" height="668" transform="translate(197 57)" fill="#585858"/>
             </g>
           </g>
-          <g id="Repeat_Grid_11" data-name="Repeat Grid 11" transform="matrix(0.485, -0.875, 0.875, 0.485, 593.47, 488.915)" clip-path="url(#clip-path-3)">
+          <g transform="matrix(0.485, -0.875, 0.875, 0.485, 593.47, 488.915)" clip-path="url(#clip-path-3)">
             <g transform="translate(-197 -57)">
               <rect id="Rectangle_1-4" data-name="Rectangle 1" width="6" height="668" transform="translate(197 57)" fill="#585858"/>
             </g>
           </g>
-          <g id="Repeat_Grid_14" data-name="Repeat Grid 14" transform="translate(-29.134 138.576) rotate(-60)" clip-path="url(#clip-path-3)">
+          <g transform="translate(-29.134 138.576) rotate(-60)" clip-path="url(#clip-path-3)">
             <g transform="translate(-197 -57)">
               <rect id="Rectangle_1-5" data-name="Rectangle 1" width="6" height="668" transform="translate(197 57)" fill="#585858"/>
             </g>
@@ -168,15 +168,15 @@
           <rect width="25" height="25" rx="7" stroke="none"/>
           <rect x="0.5" y="0.5" width="24" height="24" rx="6.5" fill="none"/>
         </g>
-        <text id="M" transform="translate(473.5 645)" fill="#707070" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-6.944" y="0">M</tspan></text>
-        <text id="_4" data-name="4" transform="translate(501 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-4.312" y="0">4</tspan></text>
-        <text id="_6" data-name="6" transform="translate(545 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-4.392" y="0">6</tspan></text>
-        <text id="N" transform="translate(589 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-5.952" y="0">N</tspan></text>
-        <text id="R" transform="translate(635 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-5.136" y="0">R</tspan></text>
-        <text id="_5" data-name="5" transform="translate(523 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-4.36" y="0">5</tspan></text>
-        <text id="L" transform="translate(567 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-4.488" y="0">L</tspan></text>
-        <text id="Q" transform="translate(611 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-6.064" y="0">Q</tspan></text>
-        <text id="W" transform="translate(657 646)" fill="#fff" font-size="16" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-7.488" y="0">W</tspan></text>
+        <text id="M" transform="translate(473.5 645)" fill="#707070" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-6.944" y="0">M</tspan></text>
+        <text id="_4" data-name="4" transform="translate(501 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-4.312" y="0">4</tspan></text>
+        <text id="_6" data-name="6" transform="translate(545 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-4.392" y="0">6</tspan></text>
+        <text id="N" transform="translate(589 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-5.952" y="0">N</tspan></text>
+        <text id="R" transform="translate(635 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-5.136" y="0">R</tspan></text>
+        <text id="_5" data-name="5" transform="translate(523 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-4.36" y="0">5</tspan></text>
+        <text id="L" transform="translate(567 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-4.488" y="0">L</tspan></text>
+        <text id="Q" transform="translate(611 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-6.064" y="0">Q</tspan></text>
+        <text id="W" transform="translate(657 646)" fill="#fff" font-size="16" font-family="var(--sans-serif), sans-serif"><tspan x="-7.488" y="0">W</tspan></text>
       </g>
     </g>
   </g>
