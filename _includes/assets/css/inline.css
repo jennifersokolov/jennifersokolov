@@ -250,6 +250,12 @@ ul {
 		margin: 0 auto;
 		/* font-size: calc( var(--p-size-min) * 1em); */
 	}
+a {
+	color: #006683;
+}
+a:visited {
+	color: #006683;
+}
 
 .hero-text {
 	background-color: var(--cool-fill);

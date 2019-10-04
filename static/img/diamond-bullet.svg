@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="21.747" height="16.953" viewBox="0 0 21.747 16.953">
-  <g id="Group_1" data-name="Group 1" transform="translate(335.876 -243.097)">
-    <path id="Path_3" data-name="Path 3" d="M.286.306,11.7-.636,10.816,10.1-.6,11.039Z" transform="translate(-330.208 251.821) rotate(-45)" fill="#d95029"/>
-    <path id="Path_4" data-name="Path 4" d="M.286.306,11.7-.636,10.816,10.1-.6,11.039Z" transform="translate(-335.002 251.821) rotate(-45)" fill="#db850d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="15.881" height="17.087" viewBox="0 0 15.881 17.087">
+  <g id="Group_1" data-name="Group 1" transform="translate(335.816 -241.097)">
+    <path id="Path_4" data-name="Path 4" d="M.795.845l10.2-.8-.754,9.586-10.2.8Z" transform="translate(-335.876 250.838) rotate(-45)" fill="#db850d"/>
+    <g id="Path_3" data-name="Path 3" transform="translate(-335.082 248.838) rotate(-45)" fill="none">
+      <path d="M.795.845l10.2-.8-.754,9.586-10.2.8Z" stroke="none"/>
+      <path d="M 9.90164852142334 1.131781578063965 L 1.724653244018555 1.774815559387207 L 1.129589080810547 9.34182071685791 L 9.306584358215332 8.698786735534668 L 9.90164852142334 1.131781578063965 M 10.99034881591797 0.04308128356933594 L 10.23653888702393 9.628741264343262 L 0.04088878631591797 10.43052101135254 L 0.7946987152099609 0.8448610305786133 L 10.99034881591797 0.04308128356933594 Z" stroke="none" fill="#d95029"/>
+    </g>
   </g>
 </svg>
