@@ -5,9 +5,8 @@ permalink: /
 navtitle: Home
 ---
 <div class="hero-text">
-  <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle to let the real you shine through…</h1>
+  <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle and let the real you shine through…</h1>
 </div>
-
 
 <div class="image-section image-section-01">
   <div class="a">
@@ -46,6 +45,7 @@ Energy Therapy | Yoga
 You may schedule online or reach out personally
 
 <a href="/booking-and-fees">Read More About Booking and Fees</a>
+
   <div>
 </div>
 
