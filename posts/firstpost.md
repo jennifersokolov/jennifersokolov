@@ -3,7 +3,7 @@ title: 42 Hours of Yoga
 date: 2017-08-16T23:00:00.000Z
 summary: 6 thoughts from a weeklong yoga retreat with Kofi Busia
 tags:
-  - yoga
+  - yoga practice
 ---
 * You can definitely do more than you think you can but probably less than you think you should.
 * Yoga’s mission is to liberate and free the life force. Any other benefits are fringe benefits.
