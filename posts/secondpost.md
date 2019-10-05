@@ -1,10 +1,9 @@
 ---
-title: Dear Clients and Friends
+title: Winter Reverie
 date: 2018-03-01T00:00:00.000Z
-summary: This is a summary of the post
+summary: Taking a moment to remember a time before time...
 tags:
-  - post
-  - sport
+  - letter
 ---
 Oh the month of February. Even my tiny newsletter has gone sleepy in the winter months and finds your inbox 9 days later than my commitment to connect with you on at least 10 of the 12 1st’s of this year. I’m not really a procrastinator. I learned early in my college career that I preferred not to pull all-nighters, only a few all-dayers and a lot of water and sleep.
 
