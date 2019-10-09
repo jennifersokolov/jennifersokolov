@@ -237,7 +237,7 @@ p, ul {
 
 ul {
 		list-style: square;
-		list-style-image: url(/static/img/diamond-bullet.svg);
+		list-style-image: url(/static/img/splatter-bullet.png);
 		max-width: 48rem;
 		margin: 0 auto;
 		/* font-size: calc( var(--p-size-min) * 1em); */
@@ -786,8 +786,8 @@ a.hc-button {
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--white);
+	/* border-bottom: 1px solid #eee;
+	border-bottom: 1px solid var(--white); */
 }
 
 @media screen and (max-width: 48rem) {
