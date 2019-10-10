@@ -7,7 +7,7 @@ summary: >
 tags:
   - healership
 ---
-Aside from the woo woo, fun factor, there are several legitimate reasons to see a healer. Let’s look at what a healer is and why it can be worth taking the time to find one. 
+Aside from the fun factor, there are several legitimate reasons to see a healer. Let’s look at what a healer is and why it can be worth taking the time to find one. 
 
 **Healers have direct experience with healing**
 
