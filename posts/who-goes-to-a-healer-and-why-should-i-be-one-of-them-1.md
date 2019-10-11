@@ -1,5 +1,5 @@
 ---
-title: Who Goes to a Healer and Should I be one of them?
+title: Who Goes to a Healer and Should I Be One of Them?
 date: 2019-10-05T14:48:30.416Z
 summary: >
   There are several legitimate reasons to see a healer. Let’s look at what a
