@@ -18,11 +18,11 @@ Soon, you will feel the power of your energy bursting through the inner dams tha
 
 ## The way energy therapy works
 
-- We will take time to let the story of what brings you here unfold at the pace that’s right for you.  
-- We will uncover the physical, mental, emotional, and spiritual aspects of your narrative that might be contributing to your experience of feeling unwell.  
-- We will be present to the mystery of being alive&mdash;the timeless time shared between two people that allows the unknown to become known. 
-- We will create pathways to cultivate continued growth, acceptance, connection and love. 
-  
+* We will take time to let the story of what brings you here unfold at the pace that’s right for you.  
+* We will uncover the physical, mental, emotional, and spiritual aspects of your narrative that might be contributing to your experience of feeling unwell.  
+* We will be present to the mystery of being alive&mdash;the timeless time shared between two people that allows the unknown to become known. 
+* We will create pathways to cultivate continued growth, acceptance, connection and love. 
+
 ## The Bigger How
 
 I sense the rhythms and vibrations of fluid and light. I feel deep brain space, the oscillation of organs, the way in which the cosmos folds and unfolds until a human life is born. I feel the perturbations of wellness and illness and all the tethers that exist between them. I sit with the mystery so that you can, too. 
@@ -30,9 +30,9 @@ I sense the rhythms and vibrations of fluid and light. I feel deep brain space, 
 ## What to expect in our hour together
 
 In energy sessions, I like to start the work lying on the table and asking questions as our fields settle. What we talk about, if we talk, is entirely related to what is coming up for you in that moment. 
-  
+
 In yoga sessions, we will spend considerable time looking at the rhythms of your life, what you need from yoga, and how to support the discipline of a daily home practice. 
-  
+
 In combined sessions (2 hours), we take our time and do both.
 
 </div>
@@ -61,9 +61,10 @@ Energy Therapy | Yoga
 You may schedule online or reach out personally
 
 <a href="/booking-and-fees">Read More About Booking and Fees</a>
+
   <div>
 </div>
 
 <div class="booking-cta" style="clear:both;">
-  <a class="button" href="/book">Book a Session</a>
+  <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
