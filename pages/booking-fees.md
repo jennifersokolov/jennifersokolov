@@ -2,7 +2,6 @@
 title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
-navtitle: Booking and Fees
 ---
 <div class="image-section image-section-01">
 <div class="a">
@@ -21,7 +20,7 @@ Once we set a date and time to meet, you will be in the field and I will be awai
 <div class="fee-cards-wrapper">
   <div class="fee-cards">
     <div class="fee-card">
-      <h2>GET INPIRED</h2>
+      <h2>GET INSPIRED</h2>
       <h1>$200</h1><p>1 session, to discover</p>
     </div>
     <div class="fee-card">
@@ -39,7 +38,7 @@ Once we set a date and time to meet, you will be in the field and I will be awai
 </div>
 
 <div class="booking-cta" style="clear:both;">
-  <a class="button" href="/book">Book a Session</a>
+  <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
 
 <div class="image-section image-section-02">
