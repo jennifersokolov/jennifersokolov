@@ -16,10 +16,10 @@ Prana, chi, jing… almost every essential culture has a name for the vital ener
 
 **Choose these sessions if  you are looking for:**
 
-- Relief from intractable conditions that haven’t responded to other modalities.
-- Shifts in stuck life situations. Discovery of what might be a root cause for discomfort, illness, or pain 
-- Softening of mental/emotional turmoil
-- Quieting of nervous system disorders
+* Relief from intractable conditions that haven’t responded to other modalities.
+* Shifts in stuck life situations. Discovery of what might be a root cause for discomfort, illness, or pain 
+* Softening of mental/emotional turmoil
+* Quieting of nervous system disorders
 
 ## YOGA FOR THE HEART AND MIND
 
@@ -27,8 +27,8 @@ A personal practice changes everything. It is the foundation of stability. It is
 
 **Choose this work if you are looking for:**
 
-- Yoga Mentorship. Relief from chronic pain, anxiety and depression, stuckness, somatic issues, or complex social or family dynamics. 
-- Practices from the whole Yogic Tradition emphasizing meditation, breathing, philosophy, mantra/chanting, and asana influenced by the Desikachar and Iyengar traditions.
+* Yoga Mentorship. Relief from chronic pain, anxiety and depression, stuckness, somatic issues, or complex social or family dynamics. 
+* Practices from the whole Yogic Tradition emphasizing meditation, breathing, philosophy, mantra/chanting, and asana influenced by the Desikachar and Iyengar traditions.
 
 </div>
 </div>
@@ -57,9 +57,10 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 You may schedule online or reach out personally
 
 <a href="/booking-and-fees">Read More About Booking and Fees</a>
+
   <div>
 </div>
 
 <div class="booking-cta" style="clear:both;">
-  <a class="button" href="/book">Book a Session</a>
+  <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
