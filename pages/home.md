@@ -50,5 +50,5 @@ You may schedule online or reach out personally
 </div>
 
 <div class="booking-cta" style="clear:both;">
-  <a class="button" href="/book">Book a Session</a>
+  <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
