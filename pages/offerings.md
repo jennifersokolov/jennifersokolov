@@ -2,7 +2,6 @@
 title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html
-navtitle: Offerings
 ---
 <div class="image-section image-section-01">
   <div class="a">
@@ -43,7 +42,7 @@ A personal practice changes everything. It is the foundation of stability. It is
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness, ease, and joy.
 
-<a href="/process">Read More About The Process</a>
+<a href="/process">Read more about The Process</a>
 
   </div>
 </div>
@@ -57,7 +56,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 You may schedule online through MINDBODY®, or you may reach out to me directly at jennifer.sokolov@gmail.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
-<a href="/booking-and-fees">Read More About Booking and Fees</a>
+<a href="/booking-and-fees">Read more about Booking and Fees</a>
 
   <div>
 </div>
