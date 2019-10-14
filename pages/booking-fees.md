@@ -2,6 +2,7 @@
 title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
+navtitle: Booking & Fees
 ---
 <div class="image-section image-section-01">
 <div class="a">
@@ -64,7 +65,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Energy Therapy | Yoga
 
-We will dedicate the space and time together to re-balance how you experience the challenges that lead you here and clear the space for brighter days to come.
+We will dedicate our time together to re-balance how you experience your challenges and clear the space for brighter days to come.
 
 <a href="/offerings">Read More About Offerings</a>
 
