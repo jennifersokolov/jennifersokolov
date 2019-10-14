@@ -48,6 +48,8 @@ In combined sessions (2 hours), we take our time and do both.
 
 Energy Therapy | Yoga
 
+We will dedicate our time together to re-balance how you experience your challenges and clear the space for brighter days to come.
+
 <a href="/offerings">Read More About Offerings</a>
 
   </div>
