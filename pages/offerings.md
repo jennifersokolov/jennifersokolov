@@ -2,6 +2,7 @@
 title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html
+navtitle: Offerings
 ---
 <div class="image-section image-section-01">
   <div class="a">
@@ -40,7 +41,7 @@ A personal practice changes everything. It is the foundation of stability. It is
   <div class="b">
   <h1 id="process">The Process</h1>
 
-No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
+No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness, ease, and joy.
 
 <a href="/process">Read More About The Process</a>
 
