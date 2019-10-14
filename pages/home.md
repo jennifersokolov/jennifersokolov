@@ -15,7 +15,7 @@ navtitle: Home
   <div class="b">
   <h1 id="process">The Process</h1>
 
-No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
+No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness, ease, and joy. 
 
 <a href="/process">Read More About The Process</a>
 
@@ -31,6 +31,8 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Energy Therapy | Yoga
 
+We will dedicate our time together to re-balance how you experience your challenges and clear the space for brighter days to come.
+
 <a href="/offerings">Read More About Offerings</a>
 
   </div>
@@ -42,7 +44,7 @@ Energy Therapy | Yoga
   <div class="b">
 <h1 id="fees">Booking & Fees</h1>
 
-You may schedule online or reach out personally
+You may schedule online through MINDBODY®, or you may reach out to me directly at jennifer.sokolov@gmail.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
 <a href="/booking-and-fees">Read More About Booking and Fees</a>
 
