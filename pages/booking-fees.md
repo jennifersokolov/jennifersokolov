@@ -2,7 +2,6 @@
 title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
-navtitle: Booking & Fees
 ---
 <div class="image-section image-section-01">
 <div class="a">
@@ -51,7 +50,7 @@ Once we set a date and time to meet, you will be in the field and I will be awai
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness, ease, and joy. 
 
-<a href="/process">Read More About The Process</a>
+<a href="/process">Read more about The Process</a>
 
   </div>
 </div>
@@ -67,7 +66,7 @@ Energy Therapy | Yoga
 
 We will dedicate our time together to re-balance how you experience your challenges and clear the space for brighter days to come.
 
-<a href="/offerings">Read More About Offerings</a>
+<a href="/offerings">Read more about Offerings</a>
 
   </div>
 </div>
