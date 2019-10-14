@@ -31,6 +31,8 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Energy Therapy | Yoga
 
+We will dedicate our time together to re-balance how you experience your challenges and clear the space for brighter days to come.
+
 <a href="/offerings">Read More About Offerings</a>
 
   </div>
