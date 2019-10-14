@@ -2,7 +2,6 @@
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
-navtitle: Home
 ---
 <div class="hero-text">
   <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle and let the real you shine through…</h1>
@@ -17,7 +16,7 @@ navtitle: Home
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness, ease, and joy. 
 
-<a href="/process">Read More About The Process</a>
+<a href="/process">Read more about The Process</a>
 
   </div>
 </div>
@@ -33,7 +32,7 @@ Energy Therapy | Yoga
 
 We will dedicate our time together to re-balance how you experience your challenges and clear the space for brighter days to come.
 
-<a href="/offerings">Read More About Offerings</a>
+<a href="/offerings">Read more about Offerings</a>
 
   </div>
 </div>
@@ -46,7 +45,7 @@ We will dedicate our time together to re-balance how you experience your challen
 
 You may schedule online through MINDBODY®, or you may reach out to me directly at jennifer.sokolov@gmail.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
-<a href="/booking-and-fees">Read More About Booking and Fees</a>
+<a href="/booking-and-fees">Read more about Booking and Fees</a>
 
   <div>
 </div>
