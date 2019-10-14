@@ -2,6 +2,7 @@
 title: The Process
 date: 2019-09-07T18:01:22.512Z
 permalink: /process/index.html
+navtitle: The Process
 ---
 <div class="image-section image-section-01">
 <div class="a">
@@ -58,7 +59,7 @@ Energy Therapy | Yoga
   <div class="b">
 <h1 id="fees">Booking & Fees</h1>
 
-You may schedule online or reach out personally
+You may schedule online through MINDBODY®, or you may reach out to me directly at jennifer.sokolov@gmail.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
 <a href="/booking-and-fees">Read More About Booking and Fees</a>
 
