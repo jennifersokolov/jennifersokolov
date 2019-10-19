@@ -537,6 +537,8 @@ button, a.button, input.button {
 	color: var(--white);
 	cursor: pointer;
 	border: 1px solid var(--hot-orange-1);
+	-webkit-appearance: none;
+	border-radius: 0;
 }
 button:hover, a.button:hover, input.button:hover {
 	background-color: var(--hot-orange-2);
