@@ -236,12 +236,23 @@ p, ul {
 	}
 
 ul {
-		list-style: square;
-		list-style-image: url(/static/img/splatter-bullet.png);
-		max-width: 48rem;
-		margin: 0 auto;
-		/* font-size: calc( var(--p-size-min) * 1em); */
-	}
+	list-style: none;
+	/* list-style-image: url(/static/img/splatter-bullet.png); */
+	max-width: 48rem;
+	margin: 0 auto;
+	padding: 0;
+	/* font-size: calc( var(--p-size-min) * 1em); */
+}
+
+li {
+	padding-left: 2rem;
+	text-indent: -1.4rem;
+}
+
+section ul li::before {
+	content: " 🔸";
+}
+
 a {
 	color: #006683;
 }
