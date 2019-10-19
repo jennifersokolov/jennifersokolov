@@ -3,11 +3,8 @@ title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
 ---
-<div class="image-section image-section-01">
-<div class="a">
-    <img src="https://via.placeholder.com/600x600.jpg">
-</div>
-<div class="b">
+
+<section>
 <h1 id="booking">Booking</h1>
 
 You may schedule online through MINDBODY®, or you may reach out to me directly at jennifer.sokolov@gmail.com.
@@ -34,8 +31,7 @@ Once we set a date and time to meet, you will be in the field and I will be awai
       <p>10 Sessions to be used in 6 months, to create big change</p>
     </div>
   </div>
-</div>
-</div>
+</section>
 
 <div class="booking-cta" style="clear:both;">
   <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>

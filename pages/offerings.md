@@ -3,11 +3,8 @@ title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html
 ---
-<div class="image-section image-section-01">
-  <div class="a">
-    <img src="https://via.placeholder.com/600x600.jpg">
-  </div>
-<div class="b">
+
+<section>
 <h1 id="offerings">Offerings</h1>
 
 ## ENERGY THERAPY
@@ -30,8 +27,7 @@ A personal practice changes everything. It is the foundation of stability. It is
 * Yoga Mentorship. Relief from chronic pain, anxiety and depression, stuckness, somatic issues, or complex social or family dynamics. 
 * Practices from the whole Yogic Tradition emphasizing meditation, breathing, philosophy, mantra/chanting, and asana influenced by the Desikachar and Iyengar traditions.
 
-</div>
-</div>
+</section>
 
 <div class="image-section image-section-02">
   <div class="a">
