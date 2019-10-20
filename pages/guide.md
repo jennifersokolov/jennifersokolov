@@ -9,7 +9,13 @@ hero-text: Test
 
 **Brand** - Unique, Trustworthy, Communicative, Professional
 
+Website Logo:
+
 ![Jennifer Sokolov Logo](/static/img/logo-web.svg)
+
+Everywhere else logo (the ribbon):
+
+![Jennifer Sokolov Logo](/static/img/logo-ribbon.svg)
 
 
 <h2>Energy Therapy | Yoga</h2>
