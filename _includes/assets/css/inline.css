@@ -319,7 +319,11 @@ a:visited {
 	grid-row: 1;
 }
 .image-section-02 .b {
-	grid-column: 4 / span 6;
+	grid-column: 4 / span 4;
+	grid-row: 1;
+}
+.image-section-02 .c {
+	grid-column: 5 / span 2;
 	grid-row: 1;
 }
 .image-section .a img {
@@ -331,27 +335,23 @@ a:visited {
 		margin-bottom: 2rem;
 	}
 	
-	.image-section-01 .a,  
+	.image-section-01 .a,
+	.image-section-02 .a,   
 	.image-section-03 .a {
-		grid-column: 1 / span 12;
+		grid-column: 1;
 		grid-row: 1 / span 3;
 	}
-	.image-section-01 .b,  
+	.image-section-01 .b,
+	.image-section-02 .b,  
 	.image-section-03 .b {
-		grid-column: 1 / span 12;
+		grid-column: 1;
 		grid-row: 2 / span 2;
 	}
-	.image-section-01 .c {
-		grid-column: 1 / span 12;
+	.image-section-01 .c, 
+	.image-section-02 .c,
+	.image-section-03 .c {
+		grid-column: 1;
 		grid-row: 3 / span 1;
-	}
-	.image-section-02 .a {
-		grid-column: 1 / span 12;
-		grid-row: 1;
-	}
-	.image-section-02 .b {
-		grid-column: 1 / span 6;
-		grid-row: 2;
 	}
 }
 

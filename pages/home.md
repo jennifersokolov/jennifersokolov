@@ -50,6 +50,13 @@ We will dedicate our time together to re-balance how you experience your challen
 <a href="/offerings">Read more about Offerings</a>
 
   </div>
+  <div class="c">
+    <img 
+    src="/static/img/splash-1-hot@0,25x.png" 
+    srcset="
+    /static/img/splash-1-hot@0,5x.png 1024w, 
+    /static/img/splash-1-hot.png 2048w" alt="">
+  </div>
 </div>
 <div class="image-section image-section-03">
   <div class="a">
