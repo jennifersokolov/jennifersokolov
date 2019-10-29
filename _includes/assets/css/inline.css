@@ -331,6 +331,7 @@ a:visited {
 }
 .image-section .a img {
 	max-width: 100%;
+	mix-blend-mode: multiply;
 }
 
 @media screen and (max-width: 480px) {
