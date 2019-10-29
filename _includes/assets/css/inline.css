@@ -264,6 +264,9 @@ a:visited {
 	background-color: var(--cool-fill);
 	padding:1.2rem 0;
 	margin-bottom: 3rem;
+	background-image: url(/static/img/);
+	background-repeat: no-repeat;
+
 }
 .hero-text h1 {
 	--text-opsz: 22;
@@ -439,6 +442,8 @@ footer section h2 {
 
 main {
 	padding-bottom: 2em;
+	background-image: url(/static/img/connecting-line-5.png);
+	background-repeat: no-repeat;
 }
 
 main :first-child,

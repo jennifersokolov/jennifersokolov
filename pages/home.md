@@ -15,6 +15,13 @@ permalink: /
     /static/img/Face@0,5x.jpg 1024w, 
     /static/img/Face.jpg 2048w" alt="a colorful face">
   </div>
+  <div class="c">
+    <img 
+    src="/static/img/splash-1-blue@0,25x.png" 
+    srcset="
+    /static/img/splash-1-blue@0,5x.png 1024w, 
+    /static/img/splash-1-blue.png 2048w" alt="">
+  </div>
   <div class="b">
   <h1 id="process">The Process</h1>
 
@@ -22,13 +29,6 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 <a href="/process">Read more about The Process</a>
 
-  </div>
-  <div class="c">
-    <img 
-    src="/static/img/splash-1-blue@0,25x.png" 
-    srcset="
-    /static/img/splash-1-blue@0,5x.png 1024w, 
-    /static/img/splash-1-blue.png 2048w" alt="">
   </div>
 </div>
 
@@ -40,6 +40,13 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
     /static/img/Hand@0,5x.jpg 1024w, 
     /static/img/Hand.jpg 2048w" alt="a colorful open hand">
   </div>
+  <div class="c">
+    <img 
+    src="/static/img/splash-1-hot@0,25x.png" 
+    srcset="
+    /static/img/splash-1-hot@0,5x.png 1024w, 
+    /static/img/splash-1-hot.png 2048w" alt="">
+  </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
 
@@ -49,13 +56,6 @@ We will dedicate our time together to re-balance how you experience your challen
 
 <a href="/offerings">Read more about Offerings</a>
 
-  </div>
-  <div class="c">
-    <img 
-    src="/static/img/splash-1-hot@0,25x.png" 
-    srcset="
-    /static/img/splash-1-hot@0,5x.png 1024w, 
-    /static/img/splash-1-hot.png 2048w" alt="">
   </div>
 </div>
 <div class="image-section image-section-03">
