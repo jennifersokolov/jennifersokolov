@@ -349,7 +349,7 @@ a:visited {
 	.image-section-02 .b,  
 	.image-section-03 .b {
 		grid-column: 1;
-		grid-row: 2 / span 2;
+		grid-row: 3 / span 2;
 	}
 	.image-section-01 .c, 
 	.image-section-02 .c,
@@ -392,7 +392,7 @@ a:visited {
 }
 @media screen and (max-width: 718px) {
 	.image-section, footer section, .hero-text h1 {
-		margin: 0 1rem;
+		margin: 0 1rem 4rem;
 	}
 }
 
@@ -440,11 +440,12 @@ footer {
 footer section h2 {
 	margin: 3rem 0 .3em;
 }
-
+body {
+	background-image: url(/static/img/connecting-line-5.svg);
+	background-repeat: no-repeat;
+}
 main {
 	padding-bottom: 2em;
-	background-image: url(/static/img/connecting-line-5.png);
-	background-repeat: no-repeat;
 }
 
 main :first-child,
