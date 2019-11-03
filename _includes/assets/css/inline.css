@@ -382,6 +382,7 @@ a:visited {
 }
 .about-image-section img {
 	width: 100%;
+	mix-blend-mode: multiply;
 }
 
 .booking-cta {
@@ -443,6 +444,7 @@ footer section h2 {
 body {
 	background-image: url(/static/img/connecting-line-5.svg);
 	background-repeat: no-repeat;
+	background-size: 1400px 5100px;
 }
 main {
 	padding-bottom: 2em;
