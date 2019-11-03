@@ -2,17 +2,16 @@
 title: FAQ
 date: 2019-10-13T14:28:56.738Z
 permalink: /faq/index.html
-tags: nav
 ---
 # FAQs
 
-Welcome to the practice. Here are a few helpful pieces of information to make your pre- and post- session experience smooth. If you do not find answers to your questions, feel free to reach out to me at jennifer.sokolov@gmail.com.
+Welcome to the practice. Here are a few helpful pieces of information to make your pre- and post- session experience smooth. If you do not find answers to your questions, feel free to reach out to me at info@jennifersokolov.com.
 
 **What should I wear?**\
 Please wear comfortable clothes that you could easily move in. Energy Therapy occurs lying on a massage table and I want you to be able to rest. Be prepared to remove big jewelry, watches and belts. You will also take off your shoes.
 
 **What is the bathroom code?**\
-The bathroom code is 0042--then take the handle up and then down. 
+The bathroom code is 0042—then take the handle up and then down. 
 
 **What is your late cancellation policy?**\
 I require a minimum of 24 hours notice if you need to cancel a session. If you miss the 24-hour window, you will be responsible for the full fee for service. 
