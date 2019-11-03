@@ -7,8 +7,7 @@ permalink: /booking-and-fees/index.html
 <section>
 <h1 id="booking">Booking &amp; Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at jennifer.sokolov@gmail.com.
-Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
 <div class="fee-cards-wrapper">
   <div class="fee-cards">
@@ -35,7 +34,18 @@ Once we set a date and time to meet, you will be in the field and I will be awai
 
 <div class="image-section image-section-02">
   <div class="a">
-    <img src="https://via.placeholder.com/600x600.jpg">
+    <img 
+    src="/static/img/Face@0,25x.jpg" 
+    srcset="
+    /static/img/Face@0,5x.jpg 1024w, 
+    /static/img/Face.jpg 2048w" alt="a colorful face">
+  </div>
+  <div class="c">
+    <img 
+    src="/static/img/splash-1-blue@0,25x.png" 
+    srcset="
+    /static/img/splash-1-blue@0,5x.png 1024w, 
+    /static/img/splash-1-blue.png 2048w" alt="">
   </div>
   <div class="b">
   <h1 id="process">The Process</h1>
@@ -49,7 +59,18 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 <div class="image-section image-section-03">
   <div class="a">
-    <img src="https://via.placeholder.com/600x600.jpg">
+    <img 
+    src="/static/img/Hand@0,25x.jpg" 
+    srcset="
+    /static/img/Hand@0,5x.jpg 1024w, 
+    /static/img/Hand.jpg 2048w" alt="a colorful open hand">
+  </div>
+  <div class="c">
+    <img 
+    src="/static/img/splash-1-hot@0,25x.png" 
+    srcset="
+    /static/img/splash-1-hot@0,5x.png 1024w, 
+    /static/img/splash-1-hot.png 2048w" alt="">
   </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
