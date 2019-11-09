@@ -3,11 +3,10 @@ title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
 ---
-
 <section>
 <h1 id="booking">Booking &amp; Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at <mailto:info@jennifersokolov.com>. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
 <div class="fee-cards-wrapper">
   <div class="fee-cards">
@@ -77,7 +76,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience your challenges and clear the space for brighter days to come.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days.
 
 <a href="/offerings">Read more about Offerings</a>
 
