@@ -70,7 +70,7 @@ We will dedicate our time together to re-balance how you experience life's chall
   <div class="b">
 <h1 id="fees">Booking & Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at <mailto:info@jennifersokolov.com>. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
 <a href="/booking-and-fees">Read more about Booking and Fees</a>
 
