@@ -3,7 +3,6 @@ title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html
 ---
-
 <section>
 <h1 id="offerings">Offerings</h1>
 
@@ -65,7 +64,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
   <div class="b">
 <h1 id="fees">Booking & Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at <mailto:info@jennifersokolov.com>. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
 
 <a href="/booking-and-fees">Read more about Booking and Fees</a>
 
