@@ -1,4 +1,5 @@
 ---
+layout: layouts/home.njk
 title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html

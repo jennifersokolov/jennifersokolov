@@ -1,4 +1,5 @@
 ---
+layout: layouts/page.njk
 title: FAQ
 date: 2019-10-13T14:28:56.738Z
 permalink: /faq/index.html

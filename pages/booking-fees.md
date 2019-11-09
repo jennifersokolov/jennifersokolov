@@ -1,4 +1,5 @@
 ---
+layout: layouts/home.njk
 title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
