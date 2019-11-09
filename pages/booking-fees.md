@@ -13,16 +13,16 @@ You may schedule online through MINDBODY®, or you may reach out to me directly 
   <div class="fee-cards">
     <div class="fee-card">
       <h2>GET INSPIRED</h2>
-      <h1>$200</h1><p>1 session, to discover</p>
+      <h3>$200</h3><p>1 session, to discover</p>
     </div>
     <div class="fee-card">
       <h2>UNBLOCK</h2>
-      <h1>$525</h1>
+      <h3>$525</h3>
       <p>3 Sessions to be used in 3 months, to get unstuck</p>
     </div>
     <div class="fee-card">
       <h2>DIVE DEEP</h2>
-      <h1>$1,500</h1>
+      <h3>$1,500</h3>
       <p>10 Sessions to be used in 6 months, to create big change</p>
     </div>
   </div>
