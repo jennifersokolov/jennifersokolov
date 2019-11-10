@@ -876,7 +876,7 @@ article {
 	/* border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--white); */
 }
-article img {
+article p img {
 	max-width: 100%;
 }
 
