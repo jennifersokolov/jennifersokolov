@@ -876,6 +876,9 @@ article {
 	/* border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--white); */
 }
+article img {
+	max-width: 100%;
+}
 
 @media screen and (max-width: 48rem) {
 	article {
