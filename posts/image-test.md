@@ -3,7 +3,7 @@ title: Image Test
 date: 2019-11-10T18:44:45.244Z
 summary: >-
   This is a post to make sure images can be added to blog posts. We should make
-  sure the images are save or optimized for small file size (less than 200K).
+  sure the images are save or optimized for small file size (less than 200K). 
 tags:
   - post
 ---
