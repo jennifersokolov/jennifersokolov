@@ -909,7 +909,7 @@ article p img {
 
 @media screen and (max-width: 48rem) {
 	article {
-		padding: 1rem;
+		/* padding: 1rem; */
 		margin: 0 auto;
 	}
 }
