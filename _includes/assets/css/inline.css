@@ -156,13 +156,15 @@ h1 a, h1 a:visited {
 	text-decoration: none; */
 	text-decoration: underline var(--cool-blue-1);
   	text-decoration-thickness: 6px;
-  	text-underline-offset: 8px;
+	text-underline-offset: 8px;
+	text-decoration-skip-ink:none;
 }
 h1 a:hover {
 	color: var(--cool-blue-2);
 	text-decoration: underline var(--cool-blue-2);
 	text-decoration-thickness: 6px;
-  	text-underline-offset: 8px;
+	text-underline-offset: 8px;
+	text-decoration-skip-ink:none;
 }
 
 h2, .h2 {
