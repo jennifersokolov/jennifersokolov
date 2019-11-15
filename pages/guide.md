@@ -7,6 +7,8 @@ hero-text: Test
 ---
 # Guidelines
 
+<section>
+
 **Brand** - Unique, Trustworthy, Communicative, Professional
 
 Website Logo:
@@ -17,12 +19,15 @@ Everywhere else logo (the ribbon):
 
 ![Jennifer Sokolov Logo](/static/img/logo-ribbon.svg)
 
-
-<h2>Energy Therapy | Yoga</h2>
+</section>
+<section>
 
 **Voice and Tone** - We speak with typography and plain language
 
 <h1>Kindness and care, soulfulness, thoughtfulness, expertise and femininity</h1>
+
+</section>
+<section>
 
 **Primary Color Palette** - Cool and Hot
 
@@ -206,9 +211,14 @@ Everywhere else logo (the ribbon):
     </div>
 </div>
 
+</section>
+<section>
+
 **Typography** - Poynter Oldstyle Display Narrow, Acumin Pro Condensed
 
-Hero Text - Poynter Oldstyle
+Hero Text - Poynter Oldstyle Display
+
+[Poynter from Adobe Fonts](https://fonts.adobe.com/fonts/poynter-oldstyle-display)
 
 <div class="fill-box fill-box-gg">
     <h1 class="hero-text">We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle to let the real you shine through&hellip;</h1>
@@ -232,8 +242,29 @@ Choose these sessions if you are looking for:
 * Shifts in stuck life situations
 * Discovery of what might be a root cause for discomfort, illness, or pain
 
-<div class="book-session-link">
-    <a href="javascript:void(0)">Book a Session</a>
+<div class="booking-cta" style="clear:both;">
+  <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
 
+</section>
+<section>
+
 **Imagry** - Abstract, gestural, watercolor, hand-drawn
+
+<div class="image-section image-section-01">
+  <div class="a">
+    <img 
+    src="/static/img/Coil@0,25x.jpg" 
+    srcset="
+    /static/img/Coil@0,5x.jpg 1024w, 
+    /static/img/Coil.jpg 2048w" alt="a colorful face">
+  </div>
+  <div class="b">
+    <img 
+    src="/static/img/splash-1-blue@0,25x.png" 
+    srcset="
+    /static/img/splash-1-blue@0,5x.png 1024w, 
+    /static/img/splash-1-blue.png 2048w" alt="">
+  </div>
+</div>
+</section>
