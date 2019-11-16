@@ -545,6 +545,13 @@ header {
 	margin: 2rem auto;
 	max-width: 48rem;
 }
+
+@media screen and (max-width: 796px) {
+	header {
+		padding: 0 1rem;
+	}
+}
+
 @media screen and (max-width: 600px) {
 	header {
 		flex-flow: column nowrap;
