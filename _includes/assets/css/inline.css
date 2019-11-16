@@ -171,14 +171,16 @@ h1 a:hover {
 
 @supports (text-decoration-thickness: 8px) {
 	h1 a, h1 a:visited {
-		text-decoration: underline var(--cool-blue-1);
+		text-decoration: underline;
+		text-decoration-color: var(--cool-blue-1);
 		border-bottom: none;
 		text-decoration-thickness: 6px;
 		text-underline-offset: 8px;
 		text-decoration-skip-ink:none;
 	}
 	h1 a:hover {
-		text-decoration: underline var(--cool-blue-2);
+		text-decoration: underline;
+		text-decoration-color: var(--cool-blue-2);
 		border-bottom: none;
 		text-decoration-thickness: 6px;
 		text-underline-offset: 8px;
@@ -615,6 +617,8 @@ header nav li {
 	display: inline-block;
 	margin: 0 .5em;
 	font-size: 120%;
+	text-indent: 0;
+	padding-left: 0;
 }
 
 header nav li a[href]:not(:hover) {
@@ -642,14 +646,16 @@ header nav li a[data-current="current item"] {
 @supports (text-underline-offset: 6px) {
 	header nav li a[href]:not(:hover) {
 		color:var(--dark-gray);
-		text-decoration: underline var(--light-gray);
+		text-decoration: underline;
+		text-decoration-color:  var(--light-gray);
 		border-bottom: none;
 		text-decoration-thickness: 3px;
 		text-underline-offset: 6px;
 	}
 	
 	header nav li a{
-		text-decoration: underline var(--light-gray);
+		text-decoration: underline;
+		text-decoration-color: var(--light-gray);
 		border-bottom: none;
 		text-decoration-thickness: 3px;
 		text-underline-offset: 6px;
@@ -658,13 +664,15 @@ header nav li a[data-current="current item"] {
 	header nav li a:hover {
 		color:var(--dark-gray);
 		border-bottom: none;
-		text-decoration: underline var(--cool-blue-1);
+		text-decoration: underline;
+		text-decoration-color:  var(--cool-blue-1);
 		text-decoration-thickness: 3px;
 		text-underline-offset: 6px;
 	}
 	
 	header nav li a[data-current="current item"] {
-		text-decoration: underline var(--cool-blue-1);
+		text-decoration: underline;
+		text-decoration-color: var(--cool-blue-1);
 		border-bottom: none;
 		text-decoration-thickness: 3px;
 		text-underline-offset: 6px;
