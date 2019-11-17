@@ -340,7 +340,7 @@ strong, b {
 ul {
 	/* list-style: none; */
 	/* list-style-image: url(/static/img/splatter-bullet.png); */
-	max-width: 48rem;
+	/* max-width: 48rem; */
 	/* margin: 0 auto;
 	padding: 0; */
 	/* font-size: calc( var(--p-size-min) * 1em); */

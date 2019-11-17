@@ -32,6 +32,8 @@ In yoga sessions, we will spend considerable time looking at the rhythms of your
 
 In combined sessions (2 hours), we take our time and do both.
 
+For questions about your upcoming session, visit <a href="/faq/">Frequently Asked Questions</a>.
+
 </section>
 
 <div class="image-section image-section-02">
