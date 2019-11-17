@@ -100,6 +100,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
+	font-family: acumin-pro-condensed, sans-serif;
 	font-family: var(--sans-serif), sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -121,7 +122,9 @@ body {
 h1, .h1 {
 	--text-opsz: 22;
 	--text-wght: 600;
+	font-family: poynter-oldstyle-display-nar, serif;
 	font-family: var(--serif);
+	color: #033e48;
 	color: var(--cool-blue-1);
 	font-size: calc( var(--h1-size-min) * 1em);
 	font-stretch: calc( var(--h1-wdth-min) * 1%);
@@ -191,7 +194,9 @@ h1 a:hover {
 h2, .h2 {
 	--text-opsz: 18;
 	--text-wght: 600;
+	font-family: acumin-pro-condensed, sans-serif;
 	font-family: var(--sans-serif);
+	color: #417482;
 	color: var(--cool-blue-3);
 	/* opacity: 0.6; */
 	font-size: calc( var(--h1-size-min) * 1em);
@@ -566,6 +571,7 @@ header {
 	}
 }
 footer {
+	display: flex;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	column-gap: 2rem;
@@ -578,6 +584,7 @@ footer {
 		padding: 0 1rem;
 	}
 	footer {
+		flex-direction: column;
 		grid-template-columns: 1fr;
 		/* grid-template-rows: auto auto; */
 	}
