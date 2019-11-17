@@ -325,12 +325,17 @@ p, ul {
 		max-width: 48rem; 
 		} 
 	}
-	p + p {
-	  margin-top: 1em; }
+p + p {
+	margin-top: 1em; 
+}
 	
-	p.secondary-text {
-		color: var(--html-gray);
-	}
+p.secondary-text {
+	color: var(--html-gray);
+}
+
+strong, b {
+	font-weight: 600;
+}
 
 ul {
 	/* list-style: none; */
@@ -584,7 +589,7 @@ footer {
 		padding: 0 1rem;
 	}
 	footer {
-		flex-direction: column;
+		flex-direction:column;
 		grid-template-columns: 1fr;
 		/* grid-template-rows: auto auto; */
 	}
