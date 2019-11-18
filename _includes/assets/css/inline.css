@@ -129,6 +129,7 @@ h1, .h1 {
 	font-size: calc( var(--h1-size-min) * 1em);
 	font-stretch: calc( var(--h1-wdth-min) * 1%);
 	font-synthesis: none;
+	font-weight: 600;
 	font-weight: var(--h1-wght-min);
 	line-height: var(--h1-lh-min);
 	max-width: 48rem;
@@ -202,6 +203,7 @@ h2, .h2 {
 	font-size: calc( var(--h1-size-min) * 1em);
 	font-stretch: calc( var(--h1-wdth-min) * 1%);
 	font-synthesis: none;
+	font-weight: 600;
 	font-weight: var(--h1-wght-min);
 	line-height: var(--h1-lh-min);
 	margin: 0.8em auto .3em;
@@ -699,7 +701,7 @@ header nav li a[data-current="current item"] {
 }
 
 img.logo {
-	width: 260px;
+	/* width: 260px; */
 }
 
 .fee-cards-wrapper {

@@ -43,10 +43,10 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
   </div>
   <div class="c">
     <img 
-    src="/static/img/splash-1-hot@0,25x.png" 
+    src="/static/img/Color_splash-2@0,25x.png" 
     srcset="
-    /static/img/splash-1-hot@0,5x.png 1024w, 
-    /static/img/splash-1-hot.png 2048w" alt="">
+    /static/img/Color_splash-2@0,5x.png 1024w, 
+    /static/img/Color_splash-2.png 2048w" alt="">
   </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
