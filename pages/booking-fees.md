@@ -35,17 +35,17 @@ You may schedule online through MINDBODY®, or you may reach out to me directly 
 <div class="image-section image-section-02">
   <div class="a">
     <img 
-    src="/static/assets/Face@0,25x.jpg" 
+    src="/static/img/assets/Face@0,25x.jpg" 
     srcset="
-    /static/assets/Face@0,5x.jpg 1024w, 
-    /static/assets/Face.jpg 2048w" alt="a colorful face">
+    /static/img/assets/Face@0,5x.jpg 1024w, 
+    /static/img/assets/Face.jpg 2048w" alt="a colorful face">
   </div>
   <div class="c">
     <img 
-    src="/static/assets/splash-1-blue@0,25x.png" 
+    src="/static/img/assets/splash-1-blue@0,25x.png" 
     srcset="
-    /static/assets/splash-1-blue@0,5x.png 1024w, 
-    /static/assets/splash-1-blue.png 2048w" alt="">
+    /static/img/assets/splash-1-blue@0,5x.png 1024w, 
+    /static/img/assets/splash-1-blue.png 2048w" alt="">
   </div>
   <div class="b">
   <h1 id="process">The Process</h1>
@@ -60,17 +60,17 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 <div class="image-section image-section-03">
   <div class="a">
     <img 
-    src="/static/assets/Hand@0,25x.jpg" 
+    src="/static/img/assets/Hand@0,25x.jpg" 
     srcset="
-    /static/assets/Hand@0,5x.jpg 1024w, 
-    /static/assets/Hand.jpg 2048w" alt="a colorful open hand">
+    /static/img/assets/Hand@0,5x.jpg 1024w, 
+    /static/img/assets/Hand.jpg 2048w" alt="a colorful open hand">
   </div>
   <div class="c">
     <img 
-    src="/static/assets/splash-1-hot@0,25x.png" 
+    src="/static/img/assets/splash-1-hot@0,25x.png" 
     srcset="
-    /static/assets/splash-1-hot@0,5x.png 1024w, 
-    /static/assets/splash-1-hot.png 2048w" alt="">
+    /static/img/assets/splash-1-hot@0,5x.png 1024w, 
+    /static/img/assets/splash-1-hot.png 2048w" alt="">
   </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>

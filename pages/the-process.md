@@ -39,17 +39,17 @@ For questions about your upcoming session, visit <a href="/faq/">Frequently Aske
 <div class="image-section image-section-02">
   <div class="a">
     <img 
-    src="/static/assets/Hand@0,25x.jpg" 
+    src="/static/img/assets/Hand@0,25x.jpg" 
     srcset="
-    /static/assets/Hand@0,5x.jpg 1024w, 
-    /static/assets/Hand.jpg 2048w" alt="a colorful open hand">
+    /static/img/assets/Hand@0,5x.jpg 1024w, 
+    /static/img/assets/Hand.jpg 2048w" alt="a colorful open hand">
   </div>
   <div class="c">
     <img 
-    src="/static/assets/splash-1-hot@0,25x.png" 
+    src="/static/img/assets/splash-1-hot@0,25x.png" 
     srcset="
-    /static/assets/splash-1-hot@0,5x.png 1024w, 
-    /static/assets/splash-1-hot.png 2048w" alt="">
+    /static/img/assets/splash-1-hot@0,5x.png 1024w, 
+    /static/img/assets/splash-1-hot.png 2048w" alt="">
   </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
@@ -65,10 +65,10 @@ We will dedicate our time together to re-balance how you experience life's chall
 <div class="image-section image-section-03">
   <div class="a">
     <img 
-    src="/static/assets/Eyes_2@0,25x.jpg" 
+    src="/static/img/assets/Eyes_2@0,25x.jpg" 
     srcset="
-    /static/assets/Eyes_2@0,5x.jpg 1024w, 
-    /static/assets/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
+    /static/img/assets/Eyes_2@0,5x.jpg 1024w, 
+    /static/img/assets/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
   </div>
   <div class="b">
 <h1 id="fees">Booking & Fees</h1>

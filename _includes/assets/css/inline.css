@@ -440,16 +440,16 @@ section nav {
 	align-items: center;
 }
 .image-section-01 {
-	background: url(/static/assets/splash-1-blue.png) no-repeat;
+	background: url(/static/img/assets/splash-1-blue.png) no-repeat;
 	background-size: contain;
 	background-position: top right;
 }
 .image-section-02 {
-	background: url(/static/assets/Color_splash-2.png) no-repeat;
+	background: url(/static/img/assets/Color_splash-2.png) no-repeat;
 	background-size: contain;
 }
 .image-section-03 {
-	background: url(/static/assets/Color_splash-2-hot-2.png) no-repeat;
+	background: url(/static/img/assets/Color_splash-2-hot-2.png) no-repeat;
 	background-size: contain;
 	background-position: bottom right;
 }
