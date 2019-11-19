@@ -11,17 +11,17 @@ permalink: /
 <div class="image-section image-section-01">
   <div class="a">
     <img 
-    src="/static/img/Face@0,25x.jpg" 
+    src="/static/assets/Face@0,25x.jpg" 
     srcset="
-    /static/img/Face@0,5x.jpg 1024w, 
-    /static/img/Face.jpg 2048w" alt="a colorful face">
+    /static/assets/Face@0,5x.jpg 1024w, 
+    /static/assets/Face.jpg 2048w" alt="a colorful face">
   </div>
   <div class="c">
-    <img 
-    src="/static/img/splash-1-blue@0,25x.png" 
+    <!-- <img 
+    src="/static/assets/splash-1-blue@0,25x.png" 
     srcset="
-    /static/img/splash-1-blue@0,5x.png 1024w, 
-    /static/img/splash-1-blue.png 2048w" alt="">
+    /static/assets/splash-1-blue@0,5x.png 1024w, 
+    /static/assets/splash-1-blue.png 2048w" alt=""> -->
   </div>
   <div class="b">
   <h1 id="process">The Process</h1>
@@ -36,17 +36,17 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 <div class="image-section image-section-02">
   <div class="a">
     <img 
-    src="/static/img/Hand@0,25x.jpg" 
+    src="/static/assets/Hand@0,25x.jpg" 
     srcset="
-    /static/img/Hand@0,5x.jpg 1024w, 
-    /static/img/Hand.jpg 2048w" alt="a colorful open hand">
+    /static/assets/Hand@0,5x.jpg 1024w, 
+    /static/assets/Hand.jpg 2048w" alt="a colorful open hand">
   </div>
   <div class="c">
-    <img 
-    src="/static/img/Color_splash-2@0,25x.png" 
+    <!-- <img 
+    src="/static/assets/Color_splash-2@0,25x.png" 
     srcset="
-    /static/img/Color_splash-2@0,5x.png 1024w, 
-    /static/img/Color_splash-2.png 2048w" alt="">
+    /static/assets/Color_splash-2@0,5x.png 1024w, 
+    /static/assets/Color_splash-2.png 2048w" alt=""> -->
   </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
@@ -62,10 +62,10 @@ We will dedicate our time together to re-balance how you experience life's chall
 <div class="image-section image-section-03">
   <div class="a">
     <img 
-    src="/static/img/Eyes_2@0,25x.jpg" 
+    src="/static/assets/Eyes_2@0,25x.jpg" 
     srcset="
-    /static/img/Eyes_2@0,5x.jpg 1024w, 
-    /static/img/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
+    /static/assets/Eyes_2@0,5x.jpg 1024w, 
+    /static/assets/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
   </div>
   <div class="b">
 <h1 id="fees">Booking & Fees</h1>
