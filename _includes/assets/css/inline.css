@@ -390,20 +390,20 @@ a:visited {
 
 
 body {
-	background-image: url(/static/img/connecting-line-5.svg);
+	background-image: url(/static/img/assets/connecting-line-5.svg);
 	background-repeat: no-repeat;
 	background-size: 1400px 5100px;
 }
 @media screen and (max-width: 860px) {
 	body {
-		background-image: url(/static/img/connecting-line-7.svg);
+		background-image: url(/static/img/assets/connecting-line-7.svg);
 		background-repeat: no-repeat;
 		background-size: 1000px 3250px;
 	}
 }
 @media screen and (max-width: 440px) {
 	body {
-		background-image: url(/static/img/connecting-line-6.svg);
+		background-image: url(/static/img/assets/connecting-line-6.svg);
 		background-repeat: no-repeat;
 		background-size: 410px 3810px;
 	}
