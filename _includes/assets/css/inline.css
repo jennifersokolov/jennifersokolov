@@ -302,6 +302,7 @@ p, ul {
 	/* font-variation-settings: "opsz" var(--text-opsz); */
 	/* -webkit-hyphens: auto;
 	hyphens: auto; */
+	line-height: 1.51;
 	line-height: var(--p-lh-min);
 	margin: 0 auto;
 	max-width: 48rem;
@@ -447,6 +448,7 @@ section nav {
 .image-section-02 {
 	background: url(/static/img/assets/Color_splash-2.png) no-repeat;
 	background-size: contain;
+	flex-direction: row-reverse;
 }
 .image-section-03 {
 	background: url(/static/img/assets/Color_splash-2-hot-2.png) no-repeat;
