@@ -15,13 +15,6 @@ permalink: /
     /static/img/assets/Face@0,5x.jpg 1024w, 
     /static/img/assets/Face.jpg 2048w" alt="a colorful face">
   </div>
-  <div class="c">
-    <!-- <img 
-    src="/static/img/assets/splash-1-blue@0,25x.png" 
-    srcset="
-    /static/img/assets/splash-1-blue@0,5x.png 1024w, 
-    /static/img/assets/splash-1-blue.png 2048w" alt=""> -->
-  </div>
   <div class="b">
   <h1 id="process">The Process</h1>
 
@@ -39,13 +32,6 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
     srcset="
     /static/img/assets/Hand@0,5x.jpg 1024w, 
     /static/img/assets/Hand.jpg 2048w" alt="a colorful open hand">
-  </div>
-  <div class="c">
-    <!-- <img 
-    src="/static/img/assets/Color_splash-2@0,25x.png" 
-    srcset="
-    /static/img/assets/Color_splash-2@0,5x.png 1024w, 
-    /static/img/assets/Color_splash-2.png 2048w" alt=""> -->
   </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
@@ -65,13 +51,6 @@ We will dedicate our time together to re-balance how you experience life's chall
     srcset="
     /static/img/assets/Eyes_2@0,5x.jpg 1024w, 
     /static/img/assets/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
-  </div>
-  <div class="c">
-    <!-- <img 
-    src="/static/img/assets/Color_splash-2@0,25x.png" 
-    srcset="
-    /static/img/assets/Color_splash-2@0,5x.png 1024w, 
-    /static/img/assets/Color_splash-2.png 2048w" alt=""> -->
   </div>
   <div class="b">
 <h1 id="offerings">Booking & Fees</h1>
