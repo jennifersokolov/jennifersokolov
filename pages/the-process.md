@@ -1,5 +1,4 @@
 ---
-layout: layouts/home.njk
 title: The Process
 date: 2019-09-07T18:01:22.512Z
 permalink: /process/index.html
@@ -24,7 +23,7 @@ Soon, you will feel the power of your energy bursting through the inner dams tha
 
 I sense the rhythms and vibrations of fluid and light. I feel deep brain space, the oscillation of organs, the way in which the cosmos folds and unfolds until a human life is born. I feel the perturbations of wellness and illness and all the tethers that exist between them. I sit with the mystery so that you can, too. 
 
-## What to expect in our hour together
+## What to expect in our time together
 
 In energy sessions, I like to start the work lying on the table and asking questions as our fields settle. What we talk about, if we talk, is entirely related to what is coming up for you in that moment. 
 
@@ -56,7 +55,7 @@ For questions about your upcoming session, visit <a href="/faq/">Frequently Aske
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days ahead.
 
 <a href="/offerings">Read more about Offerings</a>
 

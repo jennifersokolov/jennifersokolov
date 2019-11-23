@@ -1,5 +1,4 @@
 ---
-layout: layouts/base.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
@@ -53,7 +52,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days ahead.
 
 <a href="/offerings">Read more about Offerings</a>
 

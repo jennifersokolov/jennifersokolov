@@ -1,5 +1,4 @@
 ---
-layout: layouts/home.njk
 title: Booking & Fees
 date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
@@ -77,7 +76,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days ahead.
 
 <a href="/offerings">Read more about Offerings</a>
 

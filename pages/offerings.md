@@ -1,5 +1,4 @@
 ---
-layout: layouts/home.njk
 title: Offerings
 date: 2019-09-07T18:06:00.000Z
 permalink: /offerings/index.html
@@ -9,7 +8,7 @@ permalink: /offerings/index.html
 
 ## ENERGY THERAPY
 
-Prana, chi, jing… almost every essential culture has a name for the vital energy that is our lifeforce. Taking time to work through energetic blockages can create new levels of resilience, resistance to illness, relief from chronic pain, and can aid recovery from trauma. Modalities include Reiki, Integrative Manual Therapy (IMT), and Biodynamic Craniosacral Therapy (BCST). 
+Prana, Qi, Jing… almost every essential culture has a name for the vital energy that is our lifeforce. Taking time to work through energetic blockages can create new levels of resilience, resistance to illness, relief from chronic pain, and can aid recovery from trauma. Modalities include Reiki, Integrative Manual Therapy (IMT), and Biodynamic Craniosacral Therapy (BCST). 
 
 **Choose these sessions if  you are looking for:**
 
