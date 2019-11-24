@@ -3,9 +3,11 @@ title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 ---
+<section>
 <div class="hero-text">
   <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle and let the real you shine through…</h1>
 </div>
+</section>
 
 <div class="image-section image-section-01">
   <div class="a">
