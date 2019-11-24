@@ -43,13 +43,6 @@ For questions about your upcoming session, visit <a href="/faq/">Frequently Aske
     /static/img/assets/Hand@0,5x.jpg 1024w, 
     /static/img/assets/Hand.jpg 2048w" alt="a colorful open hand">
   </div>
-  <div class="c">
-    <img 
-    src="/static/img/assets/splash-1-hot@0,25x.png" 
-    srcset="
-    /static/img/assets/splash-1-hot@0,5x.png 1024w, 
-    /static/img/assets/splash-1-hot.png 2048w" alt="">
-  </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
 
@@ -70,15 +63,15 @@ We will dedicate our time together to re-balance how you experience life's chall
     /static/img/assets/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
   </div>
   <div class="b">
-<h1 id="fees">Booking & Fees</h1>
+<h1 id="offerings">Booking & Fees</h1>
 
 You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
 
 <a href="/booking-and-fees">Read more about Booking and Fees</a>
 
-  <div>
+  </div>
 </div>
 
-<div class="booking-cta" style="clear:both;">
+<div class="booking-cta d" style="clear:both;">
   <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
