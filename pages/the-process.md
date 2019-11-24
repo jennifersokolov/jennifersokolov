@@ -8,9 +8,9 @@ permalink: /process/index.html
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
 
-You are light and loving and filled with the capacity for joy. Our work will help you travel from the density of pain, isolation, and relentlessness into the vastness of you that can’t be named. 
+You are creative and loving and filled with the capacity for joy. Our work will help you travel from the density of pain, isolation, and relentlessness into the vastness of you that can’t be named. 
 
-Soon, you will feel the power of your energy bursting through the inner dams that are keeping you blocked, tired, and small. 
+Soon, you will feel the flow of your energy bursting through the inner dams that are keeping you blocked, tired, and small. 
 
 ## The way energy therapy works
 
@@ -55,7 +55,7 @@ For questions about your upcoming session, visit <a href="/faq/">Frequently Aske
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days ahead.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for the next chapter to unfold.
 
 <a href="/offerings">Read more about Offerings</a>
 
