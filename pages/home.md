@@ -4,7 +4,7 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 ---
 <div class="hero-text">
-  <h1>Your beauty. Your courage. Your tender human heart. You are all you ever need and that is no small thing. You are the cure.</h1>
+  <h1>Your beauty. Your courage. Your tender human heart. You are all you ever need and that is no small thing. You are the cure. </h1>
 </div>
 
 <div class="image-section image-section-01">
