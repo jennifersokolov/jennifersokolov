@@ -55,7 +55,7 @@ For questions about your upcoming session, visit <a href="/faq/">Frequently Aske
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days ahead.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for the next chapter to unfold.
 
 <a href="/offerings">Read more about Offerings</a>
 
