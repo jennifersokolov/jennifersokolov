@@ -6,7 +6,7 @@ permalink: /booking-and-fees/index.html
 <section>
 <h1 id="booking">Booking &amp; Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
 
 <div class="fee-cards-wrapper">
   <div class="fee-cards">
