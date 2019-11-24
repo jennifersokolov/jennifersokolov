@@ -55,7 +55,7 @@ We will dedicate our time together to re-balance how you experience life's chall
   <div class="b">
 <h1 id="offerings">Booking & Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
 
 <a href="/booking-and-fees">Read more about Booking and Fees</a>
 
@@ -65,5 +65,3 @@ You may schedule online through MINDBODY®, or you may reach out to me directly 
 <div class="booking-cta d" style="clear:both;">
   <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
-
-
