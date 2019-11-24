@@ -254,17 +254,17 @@ Choose these sessions if you are looking for:
 <div class="image-section image-section-01">
   <div class="a">
     <img 
-    src="/static/img/Coil@0,25x.jpg" 
+    src="/static/img/assets/Coil@0,25x.jpg" 
     srcset="
-    /static/img/Coil@0,5x.jpg 1024w, 
-    /static/img/Coil.jpg 2048w" alt="a colorful face">
+    /static/img/assets/Coil@0,5x.jpg 1024w, 
+    /static/img/assets/Coil.jpg 2048w" alt="a colorful face">
   </div>
   <div class="b">
     <img 
-    src="/static/img/splash-1-blue@0,25x.png" 
+    src="/static/img/assets/splash-1-blue@0,25x.png" 
     srcset="
-    /static/img/splash-1-blue@0,5x.png 1024w, 
-    /static/img/splash-1-blue.png 2048w" alt="">
+    /static/img/assets/splash-1-blue@0,5x.png 1024w, 
+    /static/img/assets/splash-1-blue.png 2048w" alt="">
   </div>
 </div>
 </section>

@@ -460,8 +460,8 @@ section nav {
 	.image-section {
 		display: grid;
 		grid-template-columns: repeat(1fr, 12);
-		grid-template-rows: repeat(1fr,6)
-		column-gap: 2rem;
+		grid-template-rows: repeat(1fr,6);
+		column-gap: 0.2rem;
 	}
 
 	.image-section-01 .a,  
