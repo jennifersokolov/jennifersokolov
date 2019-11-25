@@ -4,7 +4,8 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 ---
 <div class="hero-text">
-  <h1>Your beauty. Your courage. Your tender human heart. You are all you ever need and that is no small thing. You are the cure. </h1>
+  <h1>Resistance, whether feeling stuck or in pain, is about losing connection to our wholeness.<br> 
+  The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1>
 </div>
 
 <div class="image-section image-section-01">
