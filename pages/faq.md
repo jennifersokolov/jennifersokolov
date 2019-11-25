@@ -4,6 +4,9 @@ title: FAQ
 date: 2019-10-13T14:28:56.738Z
 permalink: /faq/index.html
 ---
+
+<section>
+
 # FAQs
 
 Welcome to the practice. Here are a few helpful pieces of information to make your pre- and post- session experience smooth. If you do not find answers to your questions, feel free to reach out to me at info@jennifersokolov.com.
@@ -31,3 +34,5 @@ The frequency is very individual. If we are working to shift a complex situation
 
 **What happens if I need other support?**\
 I have strong connections with a number of other wonderful practitioners of a variety of modalities. We can figure out together what you might need to compliment the healing work.
+
+</section>
