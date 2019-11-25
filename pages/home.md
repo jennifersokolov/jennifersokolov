@@ -5,7 +5,7 @@ permalink: /
 ---
 <section>
 <div class="hero-text">
-  <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle and let the real you shine through…</h1>
+  <h1>Stuckness and resistance are the terrain, resilience and capability the horizon. The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1>
 </div>
 </section>
 
