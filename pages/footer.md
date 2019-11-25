@@ -6,8 +6,9 @@ tags: nav
 ---
 <section>
     <h2>Further Questions</h2>
-    <p>Email me at jennifer.sokolov@gmail.com</a> for questions about your individual requirements.
-    <p>If you need general information about the work, please visit <a href="/offerings/">Offerings</a> for an in-depth description. For questions about your upcoming session, visit <a href="/faq/">Frequently Asked Questions</a>.</p>
+    <p>If you need information about the work, please visit <a href="/offerings/">Offerings</a> for an in-depth description. For questions about your upcoming session, visit <a href="/faq/">Frequently Asked Questions</a>.</p>
+
+   <p>For all other inquiries, email me at info@jennifersokolov.com.</a> 
     <h2>Monthly Letter</h2>
     <p>If you’d like to receive my monthly Letter, please enter your email. You can also read <a href="https://us16.campaign-archive.com/home/?u=cf0efb93043ec59fb36fd1287&id=0a01040063" target="_blank">previous letters in the archive</a>.</p>
     <p>
