@@ -8,9 +8,9 @@ permalink: /process/index.html
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things. 
 
-You are light and loving and filled with the capacity for joy. Our work will help you travel from the density of pain, isolation, and relentlessness into the vastness of you that can’t be named. 
+You are creative and loving and filled with the capacity for joy. Our work will help you travel from the density of pain, isolation, and relentlessness into the vastness of you that can’t be named. 
 
-Soon, you will feel the power of your energy bursting through the inner dams that are keeping you blocked, tired, and small. 
+Soon, you will feel the flow of your energy bursting through the inner dams that are keeping you blocked, tired, and small. 
 
 ## The way energy therapy works
 
@@ -43,19 +43,12 @@ For questions about your upcoming session, visit <a href="/faq/">Frequently Aske
     /static/img/assets/Hand@0,5x.jpg 1024w, 
     /static/img/assets/Hand.jpg 2048w" alt="a colorful open hand">
   </div>
-  <div class="c">
-    <img 
-    src="/static/img/assets/splash-1-hot@0,25x.png" 
-    srcset="
-    /static/img/assets/splash-1-hot@0,5x.png 1024w, 
-    /static/img/assets/splash-1-hot.png 2048w" alt="">
-  </div>
   <div class="b">
 <h1 id="offerings">Offerings</h1>
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days ahead.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for the next chapter to unfold.
 
 <a href="/offerings">Read more about Offerings</a>
 
@@ -70,15 +63,15 @@ We will dedicate our time together to re-balance how you experience life's chall
     /static/img/assets/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
   </div>
   <div class="b">
-<h1 id="fees">Booking & Fees</h1>
+<h1 id="offerings">Booking & Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
 
 <a href="/booking-and-fees">Read more about Booking and Fees</a>
 
-  <div>
+  </div>
 </div>
 
-<div class="booking-cta" style="clear:both;">
+<div class="booking-cta d" style="clear:both;">
   <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>

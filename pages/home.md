@@ -3,10 +3,12 @@ title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 ---
+<section>
 <div class="hero-text">
   <h1>Resistance, whether feeling stuck or in pain, is about losing connection to our wholeness.<br> 
   The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1>
 </div>
+</section>
 
 <div class="image-section image-section-01">
   <div class="a">
@@ -39,7 +41,7 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
 Energy Therapy | Yoga
 
-We will dedicate our time together to re-balance how you experience life's challenges and clear the space for brighter days ahead.
+We will dedicate our time together to re-balance how you experience life's challenges and clear the space for the next chapter to unfold.
 
 <a href="/offerings">Read more about Offerings</a>
 
@@ -56,7 +58,7 @@ We will dedicate our time together to re-balance how you experience life's chall
   <div class="b">
 <h1 id="offerings">Booking & Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
 
 <a href="/booking-and-fees">Read more about Booking and Fees</a>
 
@@ -66,5 +68,3 @@ You may schedule online through MINDBODY®, or you may reach out to me directly 
 <div class="booking-cta d" style="clear:both;">
   <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
-
-

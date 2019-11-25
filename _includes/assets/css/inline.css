@@ -430,8 +430,8 @@ section nav {
 
 .image-section {
 	display: flex;
-	margin: 3rem auto;
 	margin: 0 auto;
+	padding: 0 1rem;
 	max-width: 68rem;
 	align-items: center;
 }

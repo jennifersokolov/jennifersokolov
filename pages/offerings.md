@@ -36,13 +36,6 @@ A personal practice changes everything. It is the foundation of stability. It is
     /static/img/assets/Face@0,5x.jpg 1024w, 
     /static/img/assets/Face.jpg 2048w" alt="a colorful face">
   </div>
-  <div class="c">
-    <img 
-    src="/static/img/assets/splash-1-blue@0,25x.png" 
-    srcset="
-    /static/img/assets/splash-1-blue@0,5x.png 1024w, 
-    /static/img/assets/splash-1-blue.png 2048w" alt="">
-  </div>
   <div class="b">
   <h1 id="process">The Process</h1>
 
@@ -52,7 +45,6 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
 
   </div>
 </div>
-
 <div class="image-section image-section-03">
   <div class="a">
     <img 
@@ -62,15 +54,15 @@ No one comes to a healer without a reason. Our lives are complicated and messy a
     /static/img/assets/Eyes_2.jpg 2048w" alt="zoom in on healing eyes">
   </div>
   <div class="b">
-<h1 id="fees">Booking & Fees</h1>
+<h1 id="offerings">Booking & Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time to meet, you will be in the field and I will be awaiting our time.
+You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
 
 <a href="/booking-and-fees">Read more about Booking and Fees</a>
 
-  <div>
+  </div>
 </div>
 
-<div class="booking-cta" style="clear:both;">
+<div class="booking-cta d" style="clear:both;">
   <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
