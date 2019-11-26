@@ -5,7 +5,7 @@ permalink: /
 ---
 <section>
 <div class="hero-text">
-  <h1>We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle and let the real you shine through…</h1>
+  <h1>Resistance, whether we feel stuck or in pain, is about losing connection to our wholeness. The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1>
 </div>
 </section>
 
@@ -20,7 +20,7 @@ permalink: /
   <div class="b">
   <h1 id="process">The Process</h1>
 
-No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness, ease, and joy. 
+No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness and ease. 
 
 <a href="/process">Read more about The Process</a>
 
