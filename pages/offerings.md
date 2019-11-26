@@ -39,7 +39,7 @@ A personal practice changes everything. It is the foundation of stability. It is
   <div class="b">
   <h1 id="process">The Process</h1>
 
-No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness, ease, and joy. 
+No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more wholeness and connection. 
 
 <a href="/process">Read more about The Process</a>
 
