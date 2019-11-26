@@ -5,6 +5,9 @@ permalink: /about/index.html
 tags:
   - nav
 ---
+
+<section>
+
 # About Jennifer
 
 <div class="about-image-section">
@@ -22,3 +25,5 @@ She is an accomplished yogini and is able to translate the complexities of the s
 </div>
 
 </div>
+
+</section>
