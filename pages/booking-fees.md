@@ -42,7 +42,7 @@ You may schedule online through MINDBODY®, or you may reach out to me directly 
   <div class="b">
   <h1 id="process">The Process</h1>
 
-No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more wholeness and connection. 
+No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way right now, together we will ignite a fresh approach filled with more steadiness and ease. 
 
 <a href="/process">Read more about The Process</a>
 
