@@ -5,8 +5,8 @@ permalink: /
 ---
 <section>
 <div class="hero-text">
-  <h1>Resistance, whether feeling stuck or in pain, is about losing connection to our wholeness.<br> 
-  The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1>
+  <h1>Resistance, whether we feel stuck or in pain, is about losing connection to our wholeness. The work offers a path of reconciliation between the complexity of who we are and the potential of what we can  be.</h1>
+  <!-- <h1>Stuckness and resistance is the terrain, resilience and capability the horizon. The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1> -->
 </div>
 </section>
 
