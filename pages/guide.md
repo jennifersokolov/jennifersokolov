@@ -5,19 +5,32 @@ permalink: /guide/index.html
 navtitle: Guide
 hero-text: Test
 ---
-# Guidelines
+# Contribution & Guidelines 
 
 <section>
 
-**Brand** - Unique, Trustworthy, Communicative, Professional
+**Contribtuion** 
 
-Website Logo:
+Most of this site can be edited by visiting [the administration (/admin)](../admin/) portion of the website.
 
-![Jennifer Sokolov Logo](/static/img/logo-web.svg)
+The layouts, components, and assets can be found in the [github repository](https://github.com/jennifersokolov/jennifersokolov). You can ask Jennifer for permissions or make a pull request. 
 
-Everywhere else logo (the ribbon):
+**Brand** 
 
-![Jennifer Sokolov Logo](/static/img/logo-ribbon.svg)
+# Unique, Trustworthy, Communicative, Professional
+
+**Website Logo**
+
+![Jennifer Sokolov Logo](/static/img/assets/logo-web.svg)
+
+<a href="../static/img/logo-web.png" download="logo-web-png">Download the Ribbon Logo (logo-ribbon.png)</a> 
+
+
+**Everywhere else logo** (the ribbon):
+
+![Jennifer Sokolov Logo](/static/img/assets/logo-ribbon.svg)
+
+<a href="../static/img/logo-ribbon.png" download="Ribbon-logo-png">Download the Ribbon Logo (logo-ribbon.png)</a> 
 
 </section>
 <section>
@@ -221,18 +234,18 @@ Hero Text - Poynter Oldstyle Display
 [Poynter from Adobe Fonts](https://fonts.adobe.com/fonts/poynter-oldstyle-display)
 
 <div class="fill-box fill-box-gg">
-    <h1 class="hero-text">We share 97% percent of our essence with stars. Let’s transform the clouds blocking your sparkle to let the real you shine through&hellip;</h1>
+    <h1 class="hero-text">{{ content | hero-text }}</h1>
 </div>
 
-Headings 1 - Poynter Oldstyle Display Semibold, set in-line with the first paragraph of text.
+**Headings 1** - Poynter Oldstyle Display Semibold, set in-line with the first paragraph of text.
 
 <p><span class="h1 hero-text">The Process</span> No one comes to a healer without a reason. Our lives are complicated and messy and filled with&hellip;</p>
 
-Headings 2 - Acumin Pro Medium, set in small caps
+**Headings 2** - Acumin Pro Medium, set in small caps
 
 <h2>The Way the Therapy Works</h2>
 
-Body Copy - Acumin Pro Semi-condensed
+**Body Copy** - Acumin Pro Semi-condensed
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things.
 
