@@ -15,6 +15,8 @@ Most of this site can be edited by visiting [the administration (/admin)](../adm
 
 The layouts, components, and assets can be found in the [github repository](https://github.com/jennifersokolov/jennifersokolov). You can ask Jennifer for permissions or make a pull request. 
 
+---
+
 **Brand** 
 
 # Unique, Trustworthy, Communicative, Professional
@@ -32,12 +34,16 @@ The layouts, components, and assets can be found in the [github repository](http
 
 <a href="../static/img/logo-ribbon.png" download="Ribbon-logo-png">Download the Ribbon Logo (logo-ribbon.png)</a> 
 
+---
+
 </section>
 <section>
 
 **Voice and Tone** - We speak with typography and plain language
 
 <h1>Kindness and care, soulfulness, thoughtfulness, expertise and femininity</h1>
+
+---
 
 </section>
 <section>
@@ -119,6 +125,8 @@ The layouts, components, and assets can be found in the [github repository](http
         </dl>
     </div>
 </div>
+
+---
 
 **Supplementary Color Palette** - Controlled and Refined
 
@@ -224,6 +232,8 @@ The layouts, components, and assets can be found in the [github repository](http
     </div>
 </div>
 
+---
+
 </section>
 <section>
 
@@ -258,6 +268,8 @@ Choose these sessions if you are looking for:
 <div class="booking-cta" style="clear:both;">
   <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
 </div>
+
+---
 
 </section>
 <section>
