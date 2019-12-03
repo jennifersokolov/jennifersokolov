@@ -130,8 +130,6 @@ The hosting for this site is [found on Netlify](https://app.netlify.com/sites/je
     </div>
 </div>
 
----
-
 **Supplementary Color Palette** - Controlled and Refined
 
 <div class="color-chips">
