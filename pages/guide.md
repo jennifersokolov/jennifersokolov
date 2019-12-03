@@ -15,6 +15,10 @@ Most of this site can be edited by visiting [the administration (/admin)](../adm
 
 The layouts, components, and assets can be found in the [github repository](https://github.com/jennifersokolov/jennifersokolov). You can ask Jennifer for permissions or make a pull request. 
 
+The hosting for this site is [found on Netlify](https://app.netlify.com/sites/jennifersokolov/deploys). Any errors can be diagnosed from the overview and deploys tabs. 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89404160-3ef8-43b4-9c06-444c97920f40/deploy-status)](https://app.netlify.com/sites/jennifersokolov/deploys)
+
 ---
 
 **Brand** 

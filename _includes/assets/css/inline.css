@@ -414,6 +414,11 @@ main > article :first-child {
 	margin-top: 0;
 }
 
+hr {
+	max-width: 48rem;
+	border: 1px solid var(--light-gray);
+}
+
 
 /*------------------------------------*\
   #LAYOUT
