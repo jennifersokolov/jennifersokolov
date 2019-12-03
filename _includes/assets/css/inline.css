@@ -893,6 +893,13 @@ button:hover, a.button:hover {
 	color: var(--dark-gray);
 	text-decoration: none;
 }
+a.social svg {
+	fill:#aaaaaa;
+	opacity: 1;
+	width: 30px;
+	height: 100%;
+	vertical-align: middle;
+}
 
      
 
