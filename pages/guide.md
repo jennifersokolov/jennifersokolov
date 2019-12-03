@@ -243,12 +243,10 @@ The hosting for this site is [found on Netlify](https://app.netlify.com/sites/je
 
 **Typography** - Poynter Oldstyle Display Narrow, Acumin Pro Condensed
 
-Hero Text - Poynter Oldstyle Display
-
-[Poynter from Adobe Fonts](https://fonts.adobe.com/fonts/poynter-oldstyle-display)
+Hero Text - [Poynter Oldstyle Display](https://fonts.adobe.com/fonts/poynter-oldstyle-display)
 
 <div class="fill-box fill-box-gg">
-    <h1 class="hero-text">{{ content | hero-text }}</h1>
+    <h1 class="hero-text">Resistance, whether we feel stuck or in pain, is about losing connection to our wholeness. The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1>
 </div>
 
 **Headings 1** - Poynter Oldstyle Display Semibold, set in-line with the first paragraph of text.
@@ -259,7 +257,7 @@ Hero Text - Poynter Oldstyle Display
 
 <h2>The Way the Therapy Works</h2>
 
-**Body Copy** - Acumin Pro Semi-condensed
+**Body Copy** - [Acumin Pro Semi-condensed](https://fonts.adobe.com/fonts/acumin)
 
 No one comes to a healer without a reason. Our lives are complicated and messy and filled with impossible transitions. Though it might not feel this way now, you are not those things.
 

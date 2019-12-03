@@ -875,7 +875,7 @@ button:hover, a.button:hover {
 }
 .fill-box-gg h1 {
 	color: var(--cool-blue-1);
-	padding: 1em;
+	padding: 3rem 0;
 }
 
 .book-session-link {
