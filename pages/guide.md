@@ -5,33 +5,25 @@ permalink: /guide/index.html
 navtitle: Guide
 hero-text: Test
 ---
-# Contribution & Guidelines 
-
 <section>
 
-**Contribtuion** 
+# Contribution & Guidelines 
 
-Most of this site can be edited by visiting [the administration (/admin)](../admin/) portion of the website.
+**Contribution** 
 
-The layouts, components, and assets can be found in the [github repository](https://github.com/jennifersokolov/jennifersokolov). You can ask Jennifer for permissions or make a pull request. 
+Edit - Most of this site can be edited by visiting [the administration (/admin)](../admin/) portion of the website.
 
-The hosting for this site is [found on Netlify](https://app.netlify.com/sites/jennifersokolov/deploys). Any errors can be diagnosed from the overview and deploys tabs. 
+Development - The layouts, components, and assets can be found in the [github repository](https://github.com/jennifersokolov/jennifersokolov). You can ask Jennifer for permissions or make a pull request. 
+
+Hosting - The hosting for this site is [found on Netlify](https://app.netlify.com/sites/jennifersokolov/deploys). Any errors can be diagnosed from the overview and deploys tabs. 
+
+Collaborate - New features and maintance are tracked on a [Trello board](https://trello.com/invite/b/qSEHHMis/438bb60aa7a13519821c674a5c1b9667/sokolov-website). 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/89404160-3ef8-43b4-9c06-444c97920f40/deploy-status)](https://app.netlify.com/sites/jennifersokolov/deploys)
 
-<p>
-
-<a href="https://github.com/jennifersokolov/jennifersokolov" target="_blank" class="icon-13 github social" title="Jennifer Sokolov GitHub Repository">
-                            <svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"></path></svg>
-                          </a>
-<a href="https://trello.com/invite/b/qSEHHMis/438bb60aa7a13519821c674a5c1b9667/sokolov-website" class="social"><svg viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Jennifer Sokolov Trello Project</title><desc>Created with Sketch.</desc><defs></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="trello-mark-white" fill-rule="nonzero" fill="#aaaaaa"><g id="Page-1"><g id="Assets"><g id="Trello-Logo"><g id="Trello-Mark---White"><g id="Logo"><path d="M25.0013814,0 L174.998619,0 C188.800562,0 200,11.1934997 200,25.0013814 L200,174.998619 C200,188.800562 188.8065,200 174.998619,200 L25.0013814,200 C11.1994381,200 0,188.8065 0,174.998619 L0,25.0013814 C0,11.1994381 11.1934997,0 25.0013814,0 Z M37.997036,26 C31.371256,26 26,31.3690439 26,37.9916439 L26,151.508356 C26,158.131158 31.3732256,163.5 37.997036,163.5 L75.002964,163.5 C81.628744,163.5 87,158.130956 87,151.508356 L87,37.9916439 C87,31.3688418 81.6267744,26 75.002964,26 L37.997036,26 Z M124.997036,26 C118.371256,26 113,31.3745986 113,38.0059087 L113,101.494091 C113,108.124772 118.373226,113.5 124.997036,113.5 L162.002964,113.5 C168.628744,113.5 174,108.125401 174,101.494091 L174,38.0059087 C174,31.3752284 168.626774,26 162.002964,26 L124.997036,26 Z" id="Combined-Shape"></path></g></g></g></g></g></g></g>
-</svg>
-</a>
-</p>
-
 ---
 
-**Brand** 
+**Brand Guideline** 
 
 # Unique, Trustworthy, Communicative, Professional
 
@@ -39,8 +31,7 @@ The hosting for this site is [found on Netlify](https://app.netlify.com/sites/je
 
 ![Jennifer Sokolov Logo](/static/img/assets/logo-web.svg)
 
-<a href="../static/img/logo-web.png" download="logo-web-png">Download the Ribbon Logo (logo-ribbon.png)</a> 
-
+<a href="../static/img/logo-web.png" download="logo-web-png">Download the Website Logo (logo-web.png)</a> 
 
 **Everywhere else logo** (the ribbon):
 
@@ -53,7 +44,7 @@ The hosting for this site is [found on Netlify](https://app.netlify.com/sites/je
 </section>
 <section>
 
-**Voice and Tone** - We speak with typography and plain language
+**Voice and Tone Guideline** - We speak with typography and plain language
 
 <h1>Kindness and care, soulfulness, thoughtfulness, expertise and femininity</h1>
 
@@ -249,17 +240,19 @@ The hosting for this site is [found on Netlify](https://app.netlify.com/sites/je
 </section>
 <section>
 
-**Typography** - Poynter Oldstyle Display Narrow, Acumin Pro Condensed
+**Typography Guidelines** - Poynter Oldstyle Display Narrow, Acumin Pro Condensed
 
 Hero Text - [Poynter Oldstyle Display](https://fonts.adobe.com/fonts/poynter-oldstyle-display)
 
 <div class="fill-box fill-box-gg">
     <h1 class="hero-text">Resistance, whether we feel stuck or in pain, is about losing connection to our wholeness. The work offers a path of reconciliation between the complexity of who we are and the potential of what we can be.</h1>
+    <p>Cool Blue 1 text on a Cool Fill background</p>
+    <p>&nbsp;</p>
 </div>
 
-**Headings 1** - Poynter Oldstyle Display Semibold, set in-line with the first paragraph of text.
+**Headings 1** - Poynter Oldstyle Display Semibold
 
-<p><span class="h1 hero-text">The Process</span> No one comes to a healer without a reason. Our lives are complicated and messy and filled with&hellip;</p>
+# The Process
 
 **Headings 2** - Acumin Pro Medium, set in small caps
 
@@ -284,7 +277,7 @@ Choose these sessions if you are looking for:
 </section>
 <section>
 
-**Imagry** - Abstract, gestural, watercolor, hand-drawn
+**Imagry Guideline** - Abstract, gestural, watercolor, hand-drawn
 
 <div class="image-section image-section-01">
   <div class="a">

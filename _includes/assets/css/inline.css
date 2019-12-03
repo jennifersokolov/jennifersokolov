@@ -868,6 +868,7 @@ button:hover, a.button:hover {
 
 .fill-box {
 	width: 100%;
+	margin: 3rem 0;
 }
 .fill-box-gg {
 	background-color: var(--cool-fill);
