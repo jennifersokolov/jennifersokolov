@@ -6,7 +6,7 @@ summary: >-
   about my experience of becoming Feral at 50--moving from a career to a
   calling...
 tags:
-  - post
+  - ''
 ---
 For those of you who don't know me, or just need a double dose, I speak openly about my path, passion for the work, and quirky take on life. Hopefully this is the first of many conversations about creativity, love, and healing. Thank you so much, Mary...
 
