@@ -1,9 +1,9 @@
 ---
 title: Your Stress Is Talking and It’s Not Saying What You Think...
 date: 2020-01-27T22:15:36.014Z
-summary: 'The unlikely path from illness to embodiment. '
+summary: The unlikely path from illness to embodiment...
 tags:
-  - Wellness
+  - Stress
 ---
 When you get a diagnosis in which stress is a major player, it can feel like you’re getting blamed for something out of your control. You enter into relationship with your doctors and practitioners to find support for symptoms that seem inscrutably physical only to find yourself at a loss when they take their distance and encourage you to make healthy lifestyle changes.
 
