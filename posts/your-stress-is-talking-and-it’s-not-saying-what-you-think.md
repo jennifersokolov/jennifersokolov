@@ -1,5 +1,5 @@
 ---
-title: Your Stress Is Talking and It’s Not Saying What You Think...
+title: Your Stress Is Talking and It’s Not Saying What You Think
 date: 2020-01-27T22:15:36.014Z
 summary: |
   The unlikely path from illness to embodiment...
