@@ -733,6 +733,8 @@ img.logo {
 	background-color: var(--cool-fill);
 	padding: 1rem;
 	margin: 0 9px .6rem;
+	border: 1px solid var(--cool-blue-3);
+	border-radius: 8px;
 }
 @media screen and (max-width: 480px) {
 	.fee-cards {
@@ -771,7 +773,7 @@ button, a.button, input.button {
 	cursor: pointer;
 	border: 1px solid var(--hot-orange-1);
 	-webkit-appearance: none;
-	border-radius: 0;
+	border-radius: 8px;
 }
 button:hover, a.button:hover, input.button:hover {
 	background-color: var(--hot-orange-2);

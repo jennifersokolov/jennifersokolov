@@ -4,25 +4,26 @@ date: 2019-09-07T18:32:41.572Z
 permalink: /booking-and-fees/index.html
 ---
 <section>
-<h1 id="booking">Booking &amp; Fees</h1>
-
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
-
-<div class="fee-cards-wrapper">
-  <div class="fee-cards">
-    <div class="fee-card">
-      <h2>GET INSPIRED</h2>
-      <h3>$200</h3><p>1 session, to discover</p>
-    </div>
-    <div class="fee-card">
-      <h2>UNBLOCK</h2>
-      <h3>$525</h3>
-      <p>3 Sessions to be used in 3 months, to get unstuck</p>
-    </div>
-    <div class="fee-card">
-      <h2>DIVE DEEP</h2>
-      <h3>$1,500</h3>
-      <p>10 Sessions to be used in 6 months, to create big change</p>
+  <h1 id="booking">Booking &amp; Fees</h1>
+  <p>You may schedule online through MINDBODY®, or you may reach out to me directly at <a href="mailto:info@jennifersokolov.com">info@jennifersokolov.com</a>. Once we set a date and time, I will be working with your situation until we meet.</p>
+  <p>This is a paragraph that explains the new pricing model that makes people feel good about the healing practice and feel good about supporting each other at this time.</p>
+  <div class="fee-cards-wrapper">
+    <div class="fee-cards">
+      <div class="fee-card">
+        <h2>TAG LINE</h2>
+        <h3>$150</h3>
+        <p>tag line for card 1</p>
+      </div>
+      <div class="fee-card">
+        <h2>TAG LINE</h2>
+        <h3>$100</h3>
+        <p>tag line for card 2</p>
+      </div>
+      <div class="fee-card">
+        <h2>TAG LINE</h2>
+        <h3>$0-50</h3>
+        <p>tag-line for card 3</p>
+      </div>
     </div>
   </div>
 </section>
