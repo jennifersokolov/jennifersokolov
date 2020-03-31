@@ -6,25 +6,27 @@ permalink: /booking-and-fees/index.html
 <section>
 <h1 id="booking">Booking &amp; Fees</h1>
 
-You may schedule online through MINDBODY®, or you may reach out to me directly at info@jennifersokolov.com. Once we set a date and time, I will be working with your situation until we meet.
+We are in a time of great need and great change. I want you to know that healing is here for you always. I have created a fee structure that I hope will hold you energetically in this complex time. I am thankful for you and all, and look forward to meeting virtually and helping actually.
 
 <div class="fee-cards-wrapper">
   <div class="fee-cards">
     <div class="fee-card">
-      <h2>GET INSPIRED</h2>
-      <h3>$200</h3><p>1 session, to discover</p>
+      <h2>PRICE 1</h2>
+      <h3>$150*</h3><p>For those who are currently resourced. Your generosity will help sustain healing.</p>
     </div>
     <div class="fee-card">
-      <h2>UNBLOCK</h2>
-      <h3>$525</h3>
-      <p>3 Sessions to be used in 3 months, to get unstuck</p>
+      <h2>PRICE 2</h2>
+      <h3>$100*</h3>
+      <p>For those in the middle &mdash; for whom life is upside down but still afloat.</p>
     </div>
     <div class="fee-card">
       <h2>DIVE DEEP</h2>
-      <h3>$1,500</h3>
-      <p>10 Sessions to be used in 6 months, to create big change</p>
+      <h3>$0 - 50*</h3>
+      <p>For those who are not currently resourced. No need to explain; these are unprecedented times.</p>
     </div>
   </div>
+
+<p><em>*For payment methods, please <a href="/faq/">visit FAQs</a>.</em></p>
 </section>
 
 <div class="booking-cta d" style="clear:both;">
