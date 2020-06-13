@@ -6,7 +6,7 @@ summary: "In drama, masks are not seen as signs of weakness. They deliver the
 tags:
   - post
 ---
-![](/static/img/tantalus_37039512752_o.jpg)
+![]()
 
 **Twenty years ago I had the privilege of seeing Tantalus, a 10-play cycle of the Trojan War, directed by Sir Peter Hall. His opus was my first experience of professional masked drama, and the profound emotion of less-faced actors cut me to the core. Just the opposite of social distancing, the memory of those performances has granted me access to the myth and mystery of our present-day masquerAID.**
 
