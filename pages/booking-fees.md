@@ -20,8 +20,8 @@ We are in a time of great need and great change. I want you to know that healing
       <p>For those in the middle whose lives are upside down but still afloat.</p>
     </div>
     <div class="fee-card">
-      <h2>Priceless</h2>
-      <h3>$0 - 50*</h3>
+      <h2>Priced in</h2>
+      <h3>$50*</h3>
       <p>For those who are not currently resourced. No need to explain; these are unprecedented times.</p>
     </div>
   </div>
