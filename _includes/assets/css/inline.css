@@ -747,7 +747,7 @@ img.logo {
 
 #mc_embed_signup {
 	max-width: 48rem;
-	margin: 0px auto;
+	margin: 2rem auto 0px;
 }
 .mc-field-email {
 	display: grid;
