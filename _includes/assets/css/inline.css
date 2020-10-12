@@ -18,6 +18,8 @@
 	--dark-gray: #585858;
 	--serif: poynter-oldstyle-display-nar, serif;
 	--sans-serif: acumin-pro-condensed, sans-serif;
+	/* global variables */
+	--global-br: 8px; /* Global Border Radius*/
 	/* breakpoint variables */
 	--bp-small: 25;
 	--bp-medium: 45;
@@ -734,7 +736,7 @@ img.logo {
 	padding: 1rem;
 	margin: 0 9px .6rem;
 	border: 1px solid var(--cool-blue-3);
-	border-radius: 8px;
+	border-radius: var(--global-br);
 }
 @media screen and (max-width: 480px) {
 	.fee-cards {
@@ -773,7 +775,7 @@ button, a.button, input.button {
 	cursor: pointer;
 	border: 1px solid var(--hot-orange-1);
 	-webkit-appearance: none;
-	border-radius: 8px;
+	border-radius: var(--global-br);
 }
 button:hover, a.button:hover, input.button:hover {
 	background-color: var(--hot-orange-2);
@@ -796,6 +798,26 @@ button, button:active, a.button:active {
 button:hover, a.button:hover {
 	background-color: var(--hot-orange-2);
 	color: var(--white);
+}
+
+
+
+
+/*------------------------------------*\
+    $INLINE MESSAGES
+\*------------------------------------*/
+.inline-message {
+	background-color: rgba(219, 133, 13, .1);
+	color: var(--hot-orange-2);
+	padding: 2rem 1.2rem;
+	margin: .8rem 0;
+	border-radius: var(--global-br);
+}
+
+.inline-icon {
+	font-weight: bold;
+	font-size: smaller;
+	margin-right: .6rem;
 }
 
 
