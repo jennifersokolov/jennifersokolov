@@ -433,8 +433,6 @@ section nav {
 	margin: 0 auto;
 }
 
-
-
 .image-section {
 	display: flex;
 	margin: 0 auto;
@@ -573,7 +571,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	margin: 2rem auto;
-	max-width: 48rem;
+	max-width: 60rem;
 }
 
 @media screen and (max-width: 796px) {
