@@ -26,6 +26,19 @@ A personal practice changes everything. It is the foundation of stability. It is
 * Yoga Mentorship. Relief from chronic pain, anxiety and depression, stuckness, somatic issues, or complex social or family dynamics. 
 * Practices from the whole Yogic Tradition emphasizing meditation, breathing, philosophy, mantra/chanting, and asana influenced by the Desikachar and Iyengar traditions.
 
+## PETS AND THEIR PEOPLE
+
+Pets and Their People is a unique energy healing experience that amplifies the bond between you and your pet. Energy healing with your fur person is designed to harmonize both of your energy fields, restore clearer communication between you and your pet, and shake off unwanted behaviors or illness, and reduce stress. You and your pet will both feel seen, heard and healed together.
+
+**When to book a session:**
+
+* You notice behavior changes in your pet
+* You and your pet have an ailment in the same part of the body
+* You are undergoing a major life event that affects your pet
+* Your pet’s health or behavior are stressing you out
+
+
+
 </section>
 
 <div class="image-section image-section-02">
