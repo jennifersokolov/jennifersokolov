@@ -1,5 +1,5 @@
 ---
-title: DEALING with DISTRESS (Yogically)
+title: Dealing with DISTRESS (Yogically)
 date: 2021-03-20T21:06:10.426Z
 summary: a practice protocol for difficult times
 tags:
