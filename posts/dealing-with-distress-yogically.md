@@ -24,4 +24,4 @@ To break out of the GAS cycle, I use this rescue protocol:
 * If I can do a physical practice, I do. But if I can’t, I spend time in savasana. 
 * THEN AND ONLY THEN, do I call a friend. By this point, I’m not showing up with all the stuffing out of the pillow. I have space for the conversation to buoy me, and have more room for self inquiry. I also laugh more easily, which really matters right now. 
 
-None of this is a quick fix, it’s an attempt to develop new reflexes in challenging times. We are all facing a transition. Using yogic principles to face the unknown is really what practice is all about. This is why I still do it 35 years later.
+None of this is a quick fix, it’s an attempt to develop new reflexes in challenging times. Using yogic principles to face the unknown is really what practice is all about. This is why I still do it 35 years later.
