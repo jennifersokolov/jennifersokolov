@@ -745,18 +745,24 @@ img.logo {
 	}
   }
 
-#mc_embed_signup {
-	max-width: 48rem;
-	margin: 2rem auto 0px;
-}
-.mc-field-email {
-	display: grid;
-	grid-template-columns: 1fr 8rem;
-}
-
 /*------------------------------------*\
     $CONTACT-FORM
 \*------------------------------------*/
+
+form.newsletter-sign-up {
+	display: flex;
+	flex-direction: column;
+	margin-top: 1rem;
+}
+
+form.newsletter-sign-up div {
+	display: flex;
+	flex-direction: row;
+}
+
+form.newsletter-sign-up button {
+	border-radius: 0 8px 8px 0;
+}
 
 input,
 textarea,
@@ -789,10 +795,7 @@ input,
 textarea {
 	border: 1px solid var(--html-gray);
 	background-color: transparent;
-}
-
-div.mc-field-group label {
-	font-size: calc( var(--p-size-mid) * 1em);
+	flex-grow: 2;
 }
 
 button, button:active, a.button:active {
@@ -807,16 +810,13 @@ button:hover, a.button:hover {
 	color: var(--white);
 }
 
-input#mc-embedded-subscribe {
-	border-radius: 0 8px 8px 0;
-}
-
 
 
 
 /*------------------------------------*\
     $INLINE MESSAGES
 \*------------------------------------*/
+
 .inline-message {
 	background-color: rgba(219, 133, 13, .1);
 	color: var(--hot-orange-2);
