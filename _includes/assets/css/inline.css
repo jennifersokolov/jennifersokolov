@@ -810,6 +810,12 @@ button:hover, a.button:hover {
 	color: var(--white);
 }
 
+section.success-message {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 
 
 
