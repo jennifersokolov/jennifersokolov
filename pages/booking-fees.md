@@ -11,18 +11,18 @@ We are in a time of great need and great change. I want you to know that healing
 <div class="fee-cards-wrapper">
   <div class="fee-cards">
     <div class="fee-card">
-      <h2>PRICE 1</h2>
-      <h3>$150*</h3><p>For those who are currently resourced. Your generosity will help sustain healing.</p>
+      <h2>INSPIRE</h2>
+      <h3>$200 (single session)*</h3><p>Explore, relieve pain, and reset.</p>
     </div>
     <div class="fee-card">
-      <h2>PRICE 2</h2>
-      <h3>$125*</h3>
-      <p>For those in the middle whose lives are upside down but still afloat.</p>
+      <h2>UNBLOCK</h2>
+      <h3>$175 (3-pack)*</h3>
+      <p>Get unstuck from something that's been nagging.</p>
     </div>
     <div class="fee-card">
-      <h2>Priced in</h2>
-      <h3>$100*</h3>
-      <p>For those who are not currently resourced. No need to explain; these are unprecedented times.</p>
+      <h2>DEEP DIVE</h2>
+      <h3>$150 (10-pack)*</h3>
+      <p>Commit to making significant and lasting change.</p>
     </div>
   </div>
 
