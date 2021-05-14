@@ -37,8 +37,6 @@ Pets and Their People is a unique energy healing experience that amplifies the b
 * You are undergoing a major life event that affects your pet
 * Your pet’s health or behavior are stressing you out
 
-
-
 </section>
 
 <div class="image-section image-section-02">
@@ -77,5 +75,5 @@ You may schedule online through MINDBODY®, or you may reach out to me directly 
 </div>
 
 <div class="booking-cta d" style="clear:both;">
-  <a class="button" href="https://clients.mindbodyonline.com/classic/ws?studioid=689276&stype=-9" target="_blank">Book a Session</a>
+  <a class="button" href="https://app.squarespacescheduling.com/schedule.php?owner=22806088&calendarID=5454385" target="_blank">Book a Session</a>
 </div>
