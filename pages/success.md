@@ -5,5 +5,5 @@ permalink: /success/index.html
 ---
 <section class="success-message">
     <h1>Success!</h1>
-    <p>You have subsribed to the newsletter. </p>
+    <p>I hope you enjoy practices, meditations, reflections and just plain care from the heart of a yogi and craniosacral therapist </p>
 </section>
