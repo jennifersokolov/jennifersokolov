@@ -1,10 +1,9 @@
 ---
-title: A Dancer Dies Twice
+title: A Dancer’s Double Death
 date: 2018-03-29T23:00:00.000Z
-summary: >-
-  For those thinking of subscribing to my monthly letter, here is an example of
-  the care and thoughts that I share with each of you whom I consider a fellow
-  traveler on this deep human journey.
+summary: For those thinking of subscribing to my monthly letter, here is an
+  example of the care and thoughts that I share with each of you whom I consider
+  a fellow traveler on this deep human journey.
 tags:
   - letter
 ---
